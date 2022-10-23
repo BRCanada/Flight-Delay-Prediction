@@ -32,3 +32,6 @@ def time_of_day(df, method='dep'):
             return 'Afternoon'        
         elif (df['arr_time'] >= 1700 and df['arr_time'] < 2100) :
             return 'Evening'
+
+        
+#---------SCALERS-----------#
