@@ -34,4 +34,20 @@ def time_of_day(df, method='dep'):
             return 'Evening'
 
         
-#---------SCALERS-----------#
+def feature_categorizer(dfslice, df):
+    """
+    This function will call other functions within data_preprocessing.py and write their outputs to a new csv file with the 
+    additional features created by the other functions. 
+    
+    dfslice = DataFrame (Of sliced features)
+    df = Main dataframe you want to update
+    """
+    
+    temp_df = dfslice.select_dtypes(include='object')
+    
+    for column in temp_df.columns:
+        map_dict = {}
+        for key, value in enumerate(temp_df[column].unique()):
+            map_dict[value] = key
+        
+        df[column] = df[column].map(map_dict)
