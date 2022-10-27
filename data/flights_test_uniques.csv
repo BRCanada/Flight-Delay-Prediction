@@ -1,0 +1,2451 @@
+,fl_date,city,count,weather_categ
+758,2020-01-03,"Chicago, IL",2591,empty
+408,2020-01-02,"Chicago, IL",2587,empty
+1463,2020-01-05,"Chicago, IL",2556,empty
+1813,2020-01-06,"Chicago, IL",2556,empty
+2166,2020-01-07,"Chicago, IL",2413,empty
+1112,2020-01-04,"Chicago, IL",2334,empty
+61,2020-01-01,"Chicago, IL",2327,empty
+1770,2020-01-06,"Atlanta, GA",2239,empty
+2124,2020-01-07,"Atlanta, GA",2202,empty
+1420,2020-01-05,"Atlanta, GA",2126,empty
+365,2020-01-02,"Atlanta, GA",2040,empty
+715,2020-01-03,"Atlanta, GA",2031,empty
+1830,2020-01-06,"Dallas/Fort Worth, TX",1722,empty
+775,2020-01-03,"Dallas/Fort Worth, TX",1712,empty
+1977,2020-01-06,"New York, NY",1710,empty
+1480,2020-01-05,"Dallas/Fort Worth, TX",1709,empty
+425,2020-01-02,"Dallas/Fort Worth, TX",1707,empty
+1069,2020-01-04,"Atlanta, GA",1692,empty
+2329,2020-01-07,"New York, NY",1658,empty
+430,2020-01-02,"Denver, CO",1639,empty
+1129,2020-01-04,"Dallas/Fort Worth, TX",1635,empty
+780,2020-01-03,"Denver, CO",1626,empty
+18,2020-01-01,"Atlanta, GA",1612,empty
+1485,2020-01-05,"Denver, CO",1603,empty
+77,2020-01-01,"Dallas/Fort Worth, TX",1584,empty
+82,2020-01-01,"Denver, CO",1529,empty
+1835,2020-01-06,"Denver, CO",1522,empty
+1627,2020-01-05,"New York, NY",1498,empty
+1809,2020-01-06,"Charlotte, NC",1493,empty
+754,2020-01-03,"Charlotte, NC",1485,empty
+404,2020-01-02,"Charlotte, NC",1476,empty
+1459,2020-01-05,"Charlotte, NC",1469,empty
+922,2020-01-03,"New York, NY",1464,empty
+572,2020-01-02,"New York, NY",1459,empty
+888,2020-01-03,"Los Angeles, CA",1453,empty
+2188,2020-01-07,"Denver, CO",1452,empty
+538,2020-01-02,"Los Angeles, CA",1448,empty
+1593,2020-01-05,"Los Angeles, CA",1433,empty
+1134,2020-01-04,"Denver, CO",1429,empty
+1943,2020-01-06,"Los Angeles, CA",1397,empty
+2183,2020-01-07,"Dallas/Fort Worth, TX",1396,empty
+1108,2020-01-04,"Charlotte, NC",1395,empty
+491,2020-01-02,"Houston, TX",1366,empty
+1546,2020-01-05,"Houston, TX",1365,empty
+841,2020-01-03,"Houston, TX",1363,empty
+189,2020-01-01,"Los Angeles, CA",1352,empty
+1896,2020-01-06,"Houston, TX",1328,empty
+2090,2020-01-06,"Washington, DC",1312,empty
+57,2020-01-01,"Charlotte, NC",1303,empty
+2433,2020-01-07,"Washington, DC",1302,empty
+1242,2020-01-04,"Los Angeles, CA",1301,empty
+2248,2020-01-07,"Houston, TX",1293,empty
+142,2020-01-01,"Houston, TX",1276,empty
+2162,2020-01-07,"Charlotte, NC",1272,empty
+2295,2020-01-07,"Los Angeles, CA",1250,empty
+1034,2020-01-03,"Washington, DC",1231,empty
+681,2020-01-02,"Washington, DC",1230,empty
+1736,2020-01-05,"Washington, DC",1216,empty
+223,2020-01-01,"New York, NY",1198,empty
+1195,2020-01-04,"Houston, TX",1197,empty
+1276,2020-01-04,"New York, NY",1171,empty
+1651,2020-01-05,"Phoenix, AZ",1135,empty
+948,2020-01-03,"Phoenix, AZ",1134,empty
+597,2020-01-02,"Phoenix, AZ",1121,empty
+1931,2020-01-06,"Las Vegas, NV",1101,empty
+2004,2020-01-06,"Phoenix, AZ",1099,empty
+247,2020-01-01,"Phoenix, AZ",1071,empty
+1001,2020-01-03,"Seattle, WA",1064,empty
+648,2020-01-02,"Seattle, WA",1064,empty
+1386,2020-01-04,"Washington, DC",1062,empty
+1581,2020-01-05,"Las Vegas, NV",1058,empty
+1300,2020-01-04,"Phoenix, AZ",1055,empty
+2057,2020-01-06,"Seattle, WA",1048,empty
+1703,2020-01-05,"Seattle, WA",1031,empty
+1837,2020-01-06,"Detroit, MI",980,empty
+299,2020-01-01,"Seattle, WA",979,empty
+332,2020-01-01,"Washington, DC",977,empty
+634,2020-01-02,"San Francisco, CA",974,empty
+986,2020-01-03,"San Francisco, CA",974,empty
+1352,2020-01-04,"Seattle, WA",968,empty
+1688,2020-01-05,"San Francisco, CA",965,empty
+2400,2020-01-07,"Seattle, WA",954,empty
+2042,2020-01-06,"San Francisco, CA",947,empty
+2190,2020-01-07,"Detroit, MI",937,empty
+876,2020-01-03,"Las Vegas, NV",925,empty
+284,2020-01-01,"San Francisco, CA",924,empty
+2351,2020-01-07,"Phoenix, AZ",920,empty
+1978,2020-01-06,"Newark, NJ",911,empty
+526,2020-01-02,"Las Vegas, NV",908,empty
+1338,2020-01-04,"San Francisco, CA",900,empty
+1290,2020-01-04,"Orlando, FL",897,empty
+782,2020-01-03,"Detroit, MI",895,empty
+2330,2020-01-07,"Newark, NJ",894,empty
+432,2020-01-02,"Detroit, MI",892,empty
+1641,2020-01-05,"Orlando, FL",889,empty
+1791,2020-01-06,"Boston, MA",887,empty
+1487,2020-01-05,"Detroit, MI",886,empty
+573,2020-01-02,"Newark, NJ",885,empty
+2283,2020-01-07,"Las Vegas, NV",884,empty
+1959,2020-01-06,"Minneapolis, MN",884,empty
+923,2020-01-03,"Newark, NJ",883,empty
+2386,2020-01-07,"San Francisco, CA",880,empty
+937,2020-01-03,"Orlando, FL",880,empty
+586,2020-01-02,"Orlando, FL",872,empty
+1628,2020-01-05,"Newark, NJ",870,empty
+2311,2020-01-07,"Minneapolis, MN",847,empty
+1230,2020-01-04,"Las Vegas, NV",843,empty
+177,2020-01-01,"Las Vegas, NV",841,empty
+1992,2020-01-06,"Orlando, FL",838,empty
+2144,2020-01-07,"Boston, MA",837,empty
+1609,2020-01-05,"Minneapolis, MN",817,empty
+596,2020-01-02,"Philadelphia, PA",808,empty
+2003,2020-01-06,"Philadelphia, PA",807,empty
+904,2020-01-03,"Minneapolis, MN",806,empty
+947,2020-01-03,"Philadelphia, PA",806,empty
+224,2020-01-01,"Newark, NJ",805,empty
+554,2020-01-02,"Minneapolis, MN",804,empty
+237,2020-01-01,"Orlando, FL",802,empty
+1277,2020-01-04,"Newark, NJ",801,empty
+1650,2020-01-05,"Philadelphia, PA",799,empty
+2341,2020-01-07,"Orlando, FL",777,empty
+386,2020-01-02,"Boston, MA",776,empty
+736,2020-01-03,"Boston, MA",772,empty
+1441,2020-01-05,"Boston, MA",755,empty
+1299,2020-01-04,"Philadelphia, PA",747,empty
+1136,2020-01-04,"Detroit, MI",731,empty
+2350,2020-01-07,"Philadelphia, PA",726,empty
+1684,2020-01-05,"Salt Lake City, UT",713,empty
+2038,2020-01-06,"Salt Lake City, UT",699,empty
+982,2020-01-03,"Salt Lake City, UT",687,empty
+630,2020-01-02,"Salt Lake City, UT",685,empty
+246,2020-01-01,"Philadelphia, PA",684,empty
+84,2020-01-01,"Detroit, MI",681,empty
+39,2020-01-01,"Boston, MA",677,empty
+2382,2020-01-07,"Salt Lake City, UT",671,empty
+1511,2020-01-05,"Fort Lauderdale, FL",658,empty
+456,2020-01-02,"Fort Lauderdale, FL",652,empty
+806,2020-01-03,"Fort Lauderdale, FL",649,empty
+1160,2020-01-04,"Fort Lauderdale, FL",638,empty
+1258,2020-01-04,"Minneapolis, MN",635,empty
+205,2020-01-01,"Minneapolis, MN",630,empty
+1090,2020-01-04,"Boston, MA",619,empty
+1861,2020-01-06,"Fort Lauderdale, FL",616,empty
+108,2020-01-01,"Fort Lauderdale, FL",615,empty
+1334,2020-01-04,"Salt Lake City, UT",614,empty
+720,2020-01-03,"Baltimore, MD",608,empty
+901,2020-01-03,"Miami, FL",602,empty
+370,2020-01-02,"Baltimore, MD",602,empty
+551,2020-01-02,"Miami, FL",599,empty
+280,2020-01-01,"Salt Lake City, UT",591,empty
+1606,2020-01-05,"Miami, FL",589,empty
+1255,2020-01-04,"Miami, FL",579,empty
+2214,2020-01-07,"Fort Lauderdale, FL",579,empty
+1956,2020-01-06,"Miami, FL",570,empty
+202,2020-01-01,"Miami, FL",566,empty
+985,2020-01-03,"San Diego, CA",558,empty
+1425,2020-01-05,"Baltimore, MD",557,empty
+633,2020-01-02,"San Diego, CA",555,empty
+2041,2020-01-06,"San Diego, CA",550,empty
+1775,2020-01-06,"Baltimore, MD",550,empty
+1687,2020-01-05,"San Diego, CA",534,empty
+283,2020-01-01,"San Diego, CA",516,empty
+2129,2020-01-07,"Baltimore, MD",512,empty
+2385,2020-01-07,"San Diego, CA",510,empty
+667,2020-01-02,"Tampa, FL",508,empty
+2308,2020-01-07,"Miami, FL",508,empty
+23,2020-01-01,"Baltimore, MD",507,empty
+1020,2020-01-03,"Tampa, FL",504,empty
+1722,2020-01-05,"Tampa, FL",488,empty
+1623,2020-01-05,"Nashville, TN",482,empty
+604,2020-01-02,"Portland, OR",482,empty
+955,2020-01-03,"Portland, OR",479,empty
+2011,2020-01-06,"Portland, OR",471,empty
+1658,2020-01-05,"Portland, OR",471,empty
+1337,2020-01-04,"San Diego, CA",467,empty
+1973,2020-01-06,"Nashville, TN",467,empty
+1372,2020-01-04,"Tampa, FL",464,empty
+254,2020-01-01,"Portland, OR",462,empty
+568,2020-01-02,"Nashville, TN",454,empty
+918,2020-01-03,"Nashville, TN",451,empty
+1074,2020-01-04,"Baltimore, MD",449,empty
+2325,2020-01-07,"Nashville, TN",446,empty
+2076,2020-01-06,"Tampa, FL",444,empty
+318,2020-01-01,"Tampa, FL",435,empty
+1307,2020-01-04,"Portland, OR",429,empty
+2358,2020-01-07,"Portland, OR",428,empty
+1829,2020-01-06,"Dallas, TX",426,empty
+424,2020-01-02,"Dallas, TX",424,empty
+1479,2020-01-05,"Dallas, TX",424,empty
+774,2020-01-03,"Dallas, TX",424,empty
+2182,2020-01-07,"Dallas, TX",422,empty
+2067,2020-01-06,"St. Louis, MO",414,empty
+2043,2020-01-06,"San Jose, CA",413,empty
+1713,2020-01-05,"St. Louis, MO",412,empty
+2410,2020-01-07,"St. Louis, MO",410,empty
+76,2020-01-01,"Dallas, TX",405,empty
+1011,2020-01-03,"St. Louis, MO",404,empty
+219,2020-01-01,"Nashville, TN",403,empty
+658,2020-01-02,"St. Louis, MO",402,empty
+2419,2020-01-07,"Tampa, FL",396,empty
+2021,2020-01-06,"Raleigh/Durham, NC",390,empty
+635,2020-01-02,"San Jose, CA",390,empty
+987,2020-01-03,"San Jose, CA",388,empty
+2387,2020-01-07,"San Jose, CA",382,empty
+285,2020-01-01,"San Jose, CA",380,empty
+1689,2020-01-05,"San Jose, CA",372,empty
+718,2020-01-03,"Austin, TX",367,empty
+2366,2020-01-07,"Raleigh/Durham, NC",365,empty
+839,2020-01-03,"Honolulu, HI",364,empty
+1423,2020-01-05,"Austin, TX",364,empty
+368,2020-01-02,"Austin, TX",363,empty
+613,2020-01-02,"Raleigh/Durham, NC",362,empty
+965,2020-01-03,"Raleigh/Durham, NC",362,empty
+1667,2020-01-05,"Raleigh/Durham, NC",361,empty
+1272,2020-01-04,"Nashville, TN",361,empty
+1544,2020-01-05,"Honolulu, HI",361,empty
+309,2020-01-01,"St. Louis, MO",360,empty
+1773,2020-01-06,"Austin, TX",360,empty
+489,2020-01-02,"Honolulu, HI",356,empty
+1193,2020-01-04,"Honolulu, HI",349,empty
+1626,2020-01-05,"New Orleans, LA",348,empty
+140,2020-01-01,"Honolulu, HI",346,empty
+2127,2020-01-07,"Austin, TX",342,empty
+21,2020-01-01,"Austin, TX",341,empty
+2033,2020-01-06,"Sacramento, CA",329,empty
+625,2020-01-02,"Sacramento, CA",328,empty
+977,2020-01-03,"Sacramento, CA",326,empty
+1894,2020-01-06,"Honolulu, HI",324,empty
+1128,2020-01-04,"Dallas, TX",322,empty
+571,2020-01-02,"New Orleans, LA",320,empty
+921,2020-01-03,"New Orleans, LA",316,empty
+2377,2020-01-07,"Sacramento, CA",315,empty
+1679,2020-01-05,"Sacramento, CA",314,empty
+1976,2020-01-06,"New Orleans, LA",314,empty
+931,2020-01-03,"Oakland, CA",314,empty
+222,2020-01-01,"New Orleans, LA",313,empty
+2246,2020-01-07,"Honolulu, HI",313,empty
+275,2020-01-01,"Sacramento, CA",310,empty
+1072,2020-01-04,"Austin, TX",306,empty
+581,2020-01-02,"Oakland, CA",304,empty
+1564,2020-01-05,"Kansas City, MO",299,empty
+420,2020-01-02,"Columbus, OH",298,empty
+1317,2020-01-04,"Raleigh/Durham, NC",297,empty
+807,2020-01-03,"Fort Myers, FL",296,empty
+1815,2020-01-06,"Cincinnati, OH",296,empty
+457,2020-01-02,"Fort Myers, FL",296,empty
+1914,2020-01-06,"Kansas City, MO",296,empty
+2006,2020-01-06,"Pittsburgh, PA",295,empty
+2266,2020-01-07,"Kansas City, MO",294,empty
+844,2020-01-03,"Indianapolis, IN",294,empty
+1899,2020-01-06,"Indianapolis, IN",292,empty
+2328,2020-01-07,"New Orleans, LA",291,empty
+494,2020-01-02,"Indianapolis, IN",290,empty
+1549,2020-01-05,"Indianapolis, IN",290,empty
+1986,2020-01-06,"Oakland, CA",290,empty
+1275,2020-01-04,"New Orleans, LA",289,empty
+770,2020-01-03,"Columbus, OH",288,empty
+1475,2020-01-05,"Columbus, OH",287,empty
+1161,2020-01-04,"Fort Myers, FL",282,empty
+1512,2020-01-05,"Fort Myers, FL",282,empty
+1339,2020-01-04,"San Jose, CA",282,empty
+1467,2020-01-05,"Cleveland, OH",282,empty
+1363,2020-01-04,"St. Louis, MO",281,empty
+263,2020-01-01,"Raleigh/Durham, NC",281,empty
+509,2020-01-02,"Kansas City, MO",276,empty
+859,2020-01-03,"Kansas City, MO",274,empty
+2353,2020-01-07,"Pittsburgh, PA",274,empty
+1817,2020-01-06,"Cleveland, OH",272,empty
+1825,2020-01-06,"Columbus, OH",272,empty
+599,2020-01-02,"Pittsburgh, PA",270,empty
+950,2020-01-03,"Pittsburgh, PA",268,empty
+1636,2020-01-05,"Oakland, CA",267,empty
+2336,2020-01-07,"Oakland, CA",267,empty
+1653,2020-01-05,"Pittsburgh, PA",266,empty
+232,2020-01-01,"Oakland, CA",264,empty
+2251,2020-01-07,"Indianapolis, IN",263,empty
+109,2020-01-01,"Fort Myers, FL",262,empty
+2168,2020-01-07,"Cincinnati, OH",260,empty
+2178,2020-01-07,"Columbus, OH",257,empty
+1862,2020-01-06,"Fort Myers, FL",257,empty
+2170,2020-01-07,"Cleveland, OH",257,empty
+991,2020-01-03,"Santa Ana, CA",251,empty
+639,2020-01-02,"Santa Ana, CA",250,empty
+1329,2020-01-04,"Sacramento, CA",250,empty
+760,2020-01-03,"Cincinnati, OH",250,empty
+160,2020-01-01,"Kansas City, MO",250,empty
+1465,2020-01-05,"Cincinnati, OH",249,empty
+1198,2020-01-04,"Indianapolis, IN",248,empty
+2047,2020-01-06,"Santa Ana, CA",246,empty
+412,2020-01-02,"Cleveland, OH",246,empty
+410,2020-01-02,"Cincinnati, OH",244,empty
+762,2020-01-03,"Cleveland, OH",243,empty
+1693,2020-01-05,"Santa Ana, CA",242,empty
+289,2020-01-01,"Santa Ana, CA",237,empty
+1124,2020-01-04,"Columbus, OH",230,empty
+2215,2020-01-07,"Fort Myers, FL",229,empty
+984,2020-01-03,"San Antonio, TX",229,empty
+2040,2020-01-06,"San Antonio, TX",228,empty
+1686,2020-01-05,"San Antonio, TX",228,empty
+632,2020-01-02,"San Antonio, TX",227,empty
+1302,2020-01-04,"Pittsburgh, PA",225,empty
+1039,2020-01-03,"West Palm Beach/Palm Beach, FL",222,empty
+2391,2020-01-07,"Santa Ana, CA",221,empty
+1116,2020-01-04,"Cleveland, OH",219,empty
+1285,2020-01-04,"Oakland, CA",219,empty
+145,2020-01-01,"Indianapolis, IN",217,empty
+282,2020-01-01,"San Antonio, TX",216,empty
+73,2020-01-01,"Columbus, OH",213,empty
+65,2020-01-01,"Cleveland, OH",212,empty
+249,2020-01-01,"Pittsburgh, PA",210,empty
+2384,2020-01-07,"San Antonio, TX",210,empty
+686,2020-01-02,"West Palm Beach/Palm Beach, FL",207,empty
+1114,2020-01-04,"Cincinnati, OH",204,empty
+1343,2020-01-04,"Santa Ana, CA",201,empty
+1958,2020-01-06,"Milwaukee, WI",201,empty
+1336,2020-01-04,"San Antonio, TX",201,empty
+1213,2020-01-04,"Kansas City, MO",200,empty
+1340,2020-01-04,"San Juan, PR",200,empty
+851,2020-01-03,"Jacksonville, FL",198,empty
+1741,2020-01-05,"West Palm Beach/Palm Beach, FL",198,empty
+1391,2020-01-04,"West Palm Beach/Palm Beach, FL",192,empty
+903,2020-01-03,"Milwaukee, WI",192,empty
+1798,2020-01-06,"Burbank, CA",191,empty
+1690,2020-01-05,"San Juan, PR",191,empty
+2095,2020-01-06,"West Palm Beach/Palm Beach, FL",191,empty
+2151,2020-01-07,"Burbank, CA",190,empty
+337,2020-01-01,"West Palm Beach/Palm Beach, FL",190,empty
+553,2020-01-02,"Milwaukee, WI",188,empty
+636,2020-01-02,"San Juan, PR",188,empty
+988,2020-01-03,"San Juan, PR",188,empty
+501,2020-01-02,"Jacksonville, FL",188,empty
+1608,2020-01-05,"Milwaukee, WI",187,empty
+286,2020-01-01,"San Juan, PR",186,empty
+2310,2020-01-07,"Milwaukee, WI",182,empty
+46,2020-01-01,"Burbank, CA",182,empty
+1556,2020-01-05,"Jacksonville, FL",181,empty
+1906,2020-01-06,"Jacksonville, FL",180,empty
+856,2020-01-03,"Kahului, HI",176,empty
+1561,2020-01-05,"Kahului, HI",176,empty
+1210,2020-01-04,"Kahului, HI",176,empty
+2044,2020-01-06,"San Juan, PR",174,empty
+393,2020-01-02,"Burbank, CA",174,empty
+506,2020-01-02,"Kahului, HI",172,empty
+157,2020-01-01,"Kahului, HI",172,empty
+743,2020-01-03,"Burbank, CA",172,empty
+1448,2020-01-05,"Burbank, CA",171,empty
+63,2020-01-01,"Cincinnati, OH",171,empty
+2026,2020-01-06,"Richmond, VA",169,empty
+2388,2020-01-07,"San Juan, PR",165,empty
+152,2020-01-01,"Jacksonville, FL",165,empty
+1672,2020-01-05,"Richmond, VA",163,empty
+204,2020-01-01,"Milwaukee, WI",162,empty
+1205,2020-01-04,"Jacksonville, FL",159,empty
+2371,2020-01-07,"Richmond, VA",159,empty
+1885,2020-01-06,"Hartford, CT",159,empty
+1911,2020-01-06,"Kahului, HI",159,empty
+385,2020-01-02,"Boise, ID",158,empty
+1990,2020-01-06,"Omaha, NE",158,empty
+2438,2020-01-07,"West Palm Beach/Palm Beach, FL",158,empty
+618,2020-01-02,"Richmond, VA",158,empty
+970,2020-01-03,"Richmond, VA",158,empty
+735,2020-01-03,"Boise, ID",157,empty
+1954,2020-01-06,"Memphis, TN",154,empty
+539,2020-01-02,"Louisville, KY",154,empty
+1594,2020-01-05,"Louisville, KY",154,empty
+899,2020-01-03,"Memphis, TN",153,empty
+1535,2020-01-05,"Hartford, CT",153,empty
+480,2020-01-02,"Hartford, CT",152,empty
+830,2020-01-03,"Hartford, CT",152,empty
+2258,2020-01-07,"Jacksonville, FL",152,empty
+549,2020-01-02,"Memphis, TN",151,empty
+1638,2020-01-05,"Oklahoma City, OK",151,empty
+1790,2020-01-06,"Boise, ID",151,empty
+935,2020-01-03,"Omaha, NE",151,empty
+401,2020-01-02,"Charleston, SC",150,empty
+2237,2020-01-07,"Hartford, CT",150,empty
+889,2020-01-03,"Louisville, KY",150,empty
+704,2020-01-03,"Albuquerque, NM",150,empty
+1456,2020-01-05,"Charleston, SC",150,empty
+583,2020-01-02,"Oklahoma City, OK",150,empty
+354,2020-01-02,"Albuquerque, NM",149,empty
+1257,2020-01-04,"Milwaukee, WI",149,empty
+1944,2020-01-06,"Louisville, KY",149,empty
+584,2020-01-02,"Omaha, NE",148,empty
+578,2020-01-02,"Norfolk, VA",148,empty
+1604,2020-01-05,"Memphis, TN",147,empty
+2263,2020-01-07,"Kahului, HI",146,empty
+1633,2020-01-05,"Norfolk, VA",146,empty
+1440,2020-01-05,"Boise, ID",145,empty
+1983,2020-01-06,"Norfolk, VA",145,empty
+1639,2020-01-05,"Omaha, NE",144,empty
+1759,2020-01-06,"Albuquerque, NM",144,empty
+928,2020-01-03,"Norfolk, VA",144,empty
+1797,2020-01-06,"Buffalo, NY",144,empty
+968,2020-01-03,"Reno, NV",144,empty
+2150,2020-01-07,"Buffalo, NY",143,empty
+1409,2020-01-05,"Albuquerque, NM",143,empty
+934,2020-01-03,"Oklahoma City, OK",142,empty
+585,2020-01-02,"Ontario, CA",142,empty
+751,2020-01-03,"Charleston, SC",141,empty
+266,2020-01-01,"Reno, NV",141,empty
+2306,2020-01-07,"Memphis, TN",141,empty
+1089,2020-01-04,"Boise, ID",141,empty
+1989,2020-01-06,"Oklahoma City, OK",141,empty
+1991,2020-01-06,"Ontario, CA",140,empty
+2296,2020-01-07,"Louisville, KY",140,empty
+616,2020-01-02,"Reno, NV",140,empty
+936,2020-01-03,"Ontario, CA",140,empty
+1322,2020-01-04,"Richmond, VA",140,empty
+38,2020-01-01,"Boise, ID",139,empty
+7,2020-01-01,"Albuquerque, NM",138,empty
+2339,2020-01-07,"Omaha, NE",138,empty
+742,2020-01-03,"Buffalo, NY",136,empty
+2143,2020-01-07,"Boise, ID",136,empty
+2024,2020-01-06,"Reno, NV",134,empty
+392,2020-01-02,"Buffalo, NY",134,empty
+2338,2020-01-07,"Oklahoma City, OK",134,empty
+2340,2020-01-07,"Ontario, CA",133,empty
+1097,2020-01-04,"Burbank, CA",132,empty
+236,2020-01-01,"Ontario, CA",132,empty
+2334,2020-01-07,"Norfolk, VA",132,empty
+1872,2020-01-06,"Grand Rapids, MI",132,empty
+1670,2020-01-05,"Reno, NV",131,empty
+1184,2020-01-04,"Hartford, CT",131,empty
+817,2020-01-03,"Grand Rapids, MI",130,empty
+1640,2020-01-05,"Ontario, CA",130,empty
+1243,2020-01-04,"Louisville, KY",130,empty
+131,2020-01-01,"Hartford, CT",129,empty
+1447,2020-01-05,"Buffalo, NY",129,empty
+672,2020-01-02,"Tucson, AZ",128,empty
+1282,2020-01-04,"Norfolk, VA",128,empty
+1806,2020-01-06,"Charleston, SC",128,empty
+234,2020-01-01,"Oklahoma City, OK",128,empty
+1709,2020-01-05,"Spokane, WA",127,empty
+1096,2020-01-04,"Buffalo, NY",127,empty
+2113,2020-01-07,"Albuquerque, NM",126,empty
+1025,2020-01-03,"Tucson, AZ",126,empty
+2063,2020-01-06,"Spokane, WA",126,empty
+1727,2020-01-05,"Tucson, AZ",126,empty
+654,2020-01-02,"Spokane, WA",125,empty
+1287,2020-01-04,"Oklahoma City, OK",125,empty
+1496,2020-01-05,"El Paso, TX",124,empty
+1288,2020-01-04,"Omaha, NE",124,empty
+1007,2020-01-03,"Spokane, WA",124,empty
+235,2020-01-01,"Omaha, NE",124,empty
+1522,2020-01-05,"Grand Rapids, MI",124,empty
+2406,2020-01-07,"Spokane, WA",123,empty
+1105,2020-01-04,"Charleston, SC",122,empty
+467,2020-01-02,"Grand Rapids, MI",122,empty
+1320,2020-01-04,"Reno, NV",122,empty
+2369,2020-01-07,"Reno, NV",120,empty
+2159,2020-01-07,"Charleston, SC",119,empty
+54,2020-01-01,"Charleston, SC",119,empty
+190,2020-01-01,"Louisville, KY",119,empty
+1058,2020-01-04,"Albuquerque, NM",118,empty
+441,2020-01-02,"El Paso, TX",118,empty
+1253,2020-01-04,"Memphis, TN",118,empty
+268,2020-01-01,"Richmond, VA",117,empty
+2081,2020-01-06,"Tucson, AZ",115,empty
+791,2020-01-03,"El Paso, TX",114,empty
+1171,2020-01-04,"Grand Rapids, MI",114,empty
+1358,2020-01-04,"Spokane, WA",113,empty
+1920,2020-01-06,"Knoxville, TN",113,empty
+1289,2020-01-04,"Ontario, CA",112,empty
+515,2020-01-02,"Knoxville, TN",112,empty
+1377,2020-01-04,"Tucson, AZ",112,empty
+323,2020-01-01,"Tucson, AZ",112,empty
+1570,2020-01-05,"Knoxville, TN",111,empty
+1787,2020-01-06,"Birmingham, AL",111,empty
+305,2020-01-01,"Spokane, WA",111,empty
+200,2020-01-01,"Memphis, TN",110,empty
+45,2020-01-01,"Buffalo, NY",110,empty
+93,2020-01-01,"El Paso, TX",109,empty
+1846,2020-01-06,"El Paso, TX",108,empty
+865,2020-01-03,"Knoxville, TN",108,empty
+229,2020-01-01,"Norfolk, VA",107,empty
+2424,2020-01-07,"Tucson, AZ",107,empty
+1486,2020-01-05,"Des Moines, IA",107,empty
+2082,2020-01-06,"Tulsa, OK",106,empty
+2225,2020-01-07,"Grand Rapids, MI",105,empty
+431,2020-01-02,"Des Moines, IA",105,empty
+2140,2020-01-07,"Birmingham, AL",105,empty
+1877,2020-01-06,"Greer, SC",105,empty
+1836,2020-01-06,"Des Moines, IA",104,empty
+607,2020-01-02,"Providence, RI",104,empty
+1437,2020-01-05,"Birmingham, AL",103,empty
+2029,2020-01-06,"Rochester, NY",103,empty
+1572,2020-01-05,"Kona, HI",103,empty
+1145,2020-01-04,"El Paso, TX",103,empty
+1875,2020-01-06,"Greensboro/High Point, NC",103,empty
+517,2020-01-02,"Kona, HI",102,empty
+959,2020-01-03,"Providence, RI",102,empty
+472,2020-01-02,"Greer, SC",102,empty
+1221,2020-01-04,"Kona, HI",101,empty
+781,2020-01-03,"Des Moines, IA",100,empty
+822,2020-01-03,"Greer, SC",100,empty
+867,2020-01-03,"Kona, HI",100,empty
+168,2020-01-01,"Kona, HI",100,empty
+621,2020-01-02,"Rochester, NY",100,empty
+1026,2020-01-03,"Tulsa, OK",100,empty
+2228,2020-01-07,"Greensboro/High Point, NC",100,empty
+709,2020-01-03,"Anchorage, AK",99,empty
+2374,2020-01-07,"Rochester, NY",99,empty
+1700,2020-01-05,"Savannah, GA",99,empty
+973,2020-01-03,"Rochester, NY",98,empty
+382,2020-01-02,"Birmingham, AL",98,empty
+1728,2020-01-05,"Tulsa, OK",98,empty
+1414,2020-01-05,"Anchorage, AK",98,empty
+732,2020-01-03,"Birmingham, AL",98,empty
+1527,2020-01-05,"Greer, SC",98,empty
+645,2020-01-02,"Savannah, GA",97,empty
+2015,2020-01-06,"Providence, RI",97,empty
+2230,2020-01-07,"Greer, SC",97,empty
+998,2020-01-03,"Savannah, GA",96,empty
+1947,2020-01-06,"Madison, WI",96,empty
+1720,2020-01-05,"Syracuse, NY",96,empty
+665,2020-01-02,"Syracuse, NY",96,empty
+359,2020-01-02,"Anchorage, AK",96,empty
+2299,2020-01-07,"Madison, WI",96,empty
+2272,2020-01-07,"Knoxville, TN",96,empty
+1240,2020-01-04,"Long Beach, CA",96,empty
+1675,2020-01-05,"Rochester, NY",96,empty
+119,2020-01-01,"Grand Rapids, MI",96,empty
+353,2020-01-02,"Albany, NY",95,empty
+2074,2020-01-06,"Syracuse, NY",95,empty
+1856,2020-01-06,"Fayetteville, AR",95,empty
+673,2020-01-02,"Tulsa, OK",95,empty
+1764,2020-01-06,"Anchorage, AK",94,empty
+2361,2020-01-07,"Providence, RI",94,empty
+1591,2020-01-05,"Long Beach, CA",94,empty
+533,2020-01-02,"Lihue, HI",94,empty
+703,2020-01-03,"Albany, NY",94,empty
+2199,2020-01-07,"El Paso, TX",94,empty
+1922,2020-01-06,"Kona, HI",94,empty
+1758,2020-01-06,"Albany, NY",94,empty
+883,2020-01-03,"Lihue, HI",94,empty
+1219,2020-01-04,"Knoxville, TN",94,empty
+1325,2020-01-04,"Rochester, NY",93,empty
+1643,2020-01-05,"Palm Springs, CA",93,empty
+2189,2020-01-07,"Des Moines, IA",93,empty
+1408,2020-01-05,"Albany, NY",92,empty
+1588,2020-01-05,"Lihue, HI",92,empty
+1237,2020-01-04,"Lihue, HI",92,empty
+1661,2020-01-05,"Providence, RI",92,empty
+820,2020-01-03,"Greensboro/High Point, NC",92,empty
+184,2020-01-01,"Lihue, HI",92,empty
+187,2020-01-01,"Long Beach, CA",92,empty
+536,2020-01-02,"Long Beach, CA",92,empty
+589,2020-01-02,"Palm Springs, CA",92,empty
+886,2020-01-03,"Long Beach, CA",92,empty
+470,2020-01-02,"Greensboro/High Point, NC",92,empty
+1292,2020-01-04,"Palm Springs, CA",91,empty
+1597,2020-01-05,"Madison, WI",91,empty
+1525,2020-01-05,"Greensboro/High Point, NC",91,empty
+1135,2020-01-04,"Des Moines, IA",90,empty
+2054,2020-01-06,"Savannah, GA",90,empty
+12,2020-01-01,"Anchorage, AK",90,empty
+1349,2020-01-04,"Savannah, GA",90,empty
+1370,2020-01-04,"Syracuse, NY",90,empty
+1018,2020-01-03,"Syracuse, NY",90,empty
+2112,2020-01-07,"Albany, NY",90,empty
+1941,2020-01-06,"Long Beach, CA",90,empty
+2425,2020-01-07,"Tulsa, OK",90,empty
+1311,2020-01-04,"Providence, RI",90,empty
+1063,2020-01-04,"Anchorage, AK",89,empty
+542,2020-01-02,"Madison, WI",88,empty
+2417,2020-01-07,"Syracuse, NY",88,empty
+35,2020-01-01,"Birmingham, AL",87,empty
+1831,2020-01-06,"Dayton, OH",86,empty
+2209,2020-01-07,"Fayetteville, AR",86,empty
+638,2020-01-02,"Sanford, FL",86,empty
+1692,2020-01-05,"Sanford, FL",86,empty
+940,2020-01-03,"Palm Springs, CA",86,empty
+1938,2020-01-06,"Lihue, HI",86,empty
+2293,2020-01-07,"Long Beach, CA",86,empty
+324,2020-01-01,"Tulsa, OK",85,empty
+2397,2020-01-07,"Savannah, GA",84,empty
+892,2020-01-03,"Madison, WI",84,empty
+1176,2020-01-04,"Greer, SC",84,empty
+1086,2020-01-04,"Birmingham, AL",84,empty
+1590,2020-01-05,"Little Rock, AR",83,empty
+1506,2020-01-05,"Fayetteville, AR",83,empty
+1996,2020-01-06,"Palm Springs, CA",82,empty
+1174,2020-01-04,"Greensboro/High Point, NC",82,empty
+451,2020-01-02,"Fayetteville, AR",82,empty
+1342,2020-01-04,"Sanford, FL",82,empty
+426,2020-01-02,"Dayton, OH",82,empty
+2118,2020-01-07,"Anchorage, AK",82,empty
+643,2020-01-02,"Sarasota/Bradenton, FL",82,empty
+1246,2020-01-04,"Madison, WI",82,empty
+271,2020-01-01,"Rochester, NY",81,empty
+166,2020-01-01,"Knoxville, TN",81,empty
+124,2020-01-01,"Greer, SC",81,empty
+1481,2020-01-05,"Dayton, OH",81,empty
+83,2020-01-01,"Des Moines, IA",81,empty
+316,2020-01-01,"Syracuse, NY",80,empty
+990,2020-01-03,"Sanford, FL",80,empty
+2274,2020-01-07,"Kona, HI",80,empty
+1940,2020-01-06,"Little Rock, AR",80,empty
+1698,2020-01-05,"Sarasota/Bradenton, FL",80,empty
+1057,2020-01-04,"Albany, NY",80,empty
+776,2020-01-03,"Dayton, OH",80,empty
+1378,2020-01-04,"Tulsa, OK",80,empty
+996,2020-01-03,"Sarasota/Bradenton, FL",78,empty
+239,2020-01-01,"Palm Springs, CA",78,empty
+535,2020-01-02,"Little Rock, AR",78,empty
+2046,2020-01-06,"Sanford, FL",78,empty
+6,2020-01-01,"Albany, NY",77,empty
+801,2020-01-03,"Fayetteville, AR",77,empty
+2184,2020-01-07,"Dayton, OH",77,empty
+1130,2020-01-04,"Dayton, OH",76,empty
+1419,2020-01-05,"Aspen, CO",76,empty
+364,2020-01-02,"Aspen, CO",76,empty
+1068,2020-01-04,"Aspen, CO",76,empty
+714,2020-01-03,"Aspen, CO",76,empty
+2292,2020-01-07,"Little Rock, AR",76,empty
+296,2020-01-01,"Savannah, GA",75,empty
+17,2020-01-01,"Aspen, CO",75,empty
+810,2020-01-03,"Fresno, CA",74,empty
+885,2020-01-03,"Little Rock, AR",74,empty
+2343,2020-01-07,"Palm Springs, CA",74,empty
+1442,2020-01-05,"Bozeman, MT",73,empty
+1865,2020-01-06,"Fresno, CA",73,empty
+1515,2020-01-05,"Fresno, CA",72,empty
+387,2020-01-02,"Bozeman, MT",72,empty
+1042,2020-01-03,"Wichita, KS",72,empty
+112,2020-01-01,"Fresno, CA",72,empty
+460,2020-01-02,"Fresno, CA",72,empty
+593,2020-01-02,"Pensacola, FL",72,empty
+2290,2020-01-07,"Lihue, HI",72,empty
+2096,2020-01-06,"White Plains, NY",72,empty
+2439,2020-01-07,"White Plains, NY",72,empty
+2098,2020-01-06,"Wichita, KS",72,empty
+1347,2020-01-04,"Sarasota/Bradenton, FL",71,empty
+193,2020-01-01,"Madison, WI",71,empty
+122,2020-01-01,"Greensboro/High Point, NC",71,empty
+1239,2020-01-04,"Little Rock, AR",71,empty
+1822,2020-01-06,"Columbia, SC",70,empty
+2357,2020-01-07,"Portland, ME",70,empty
+1936,2020-01-06,"Lexington, KY",70,empty
+2052,2020-01-06,"Sarasota/Bradenton, FL",70,empty
+1417,2020-01-05,"Asheville, NC",70,empty
+257,2020-01-01,"Providence, RI",70,empty
+1804,2020-01-06,"Cedar Rapids/Iowa City, IA",70,empty
+1091,2020-01-04,"Bozeman, MT",69,empty
+944,2020-01-03,"Pensacola, FL",69,empty
+1647,2020-01-05,"Pensacola, FL",69,empty
+531,2020-01-02,"Lexington, KY",69,empty
+415,2020-01-02,"Colorado Springs, CO",68,empty
+737,2020-01-03,"Bozeman, MT",68,empty
+1586,2020-01-05,"Lexington, KY",68,empty
+1306,2020-01-04,"Portland, ME",68,empty
+954,2020-01-03,"Portland, ME",68,empty
+2010,2020-01-06,"Portland, ME",67,empty
+712,2020-01-03,"Asheville, NC",67,empty
+689,2020-01-02,"Wichita, KS",66,empty
+1235,2020-01-04,"Lexington, KY",66,empty
+362,2020-01-02,"Asheville, NC",66,empty
+1472,2020-01-05,"Columbia, SC",66,empty
+40,2020-01-01,"Bozeman, MT",66,empty
+749,2020-01-03,"Cedar Rapids/Iowa City, IA",66,empty
+603,2020-01-02,"Portland, ME",66,empty
+2175,2020-01-07,"Columbia, SC",66,empty
+1155,2020-01-04,"Fayetteville, AR",66,empty
+1164,2020-01-04,"Fresno, CA",66,empty
+2000,2020-01-06,"Pensacola, FL",65,empty
+1470,2020-01-05,"Colorado Springs, CO",65,empty
+1744,2020-01-05,"Wichita, KS",65,empty
+78,2020-01-01,"Dayton, OH",65,empty
+881,2020-01-03,"Lexington, KY",64,empty
+744,2020-01-03,"Burlington, VT",64,empty
+767,2020-01-03,"Columbia, SC",64,empty
+2068,2020-01-06,"St. Petersburg, FL",64,empty
+1767,2020-01-06,"Asheville, NC",64,empty
+1657,2020-01-05,"Portland, ME",64,empty
+417,2020-01-02,"Columbia, SC",64,empty
+340,2020-01-01,"Wichita, KS",63,empty
+186,2020-01-01,"Little Rock, AR",63,empty
+1296,2020-01-04,"Pensacola, FL",63,empty
+1449,2020-01-05,"Burlington, VT",62,empty
+1012,2020-01-03,"St. Petersburg, FL",62,empty
+2288,2020-01-07,"Lexington, KY",62,empty
+765,2020-01-03,"Colorado Springs, CO",62,empty
+1066,2020-01-04,"Asheville, NC",62,empty
+2218,2020-01-07,"Fresno, CA",62,empty
+1742,2020-01-05,"White Plains, NY",62,empty
+103,2020-01-01,"Fayetteville, AR",62,empty
+394,2020-01-02,"Burlington, VT",62,empty
+1119,2020-01-04,"Colorado Springs, CO",62,empty
+1897,2020-01-06,"Huntsville, AL",62,empty
+1098,2020-01-04,"Burlington, VT",62,empty
+2441,2020-01-07,"Wichita, KS",62,empty
+1884,2020-01-06,"Harrisburg, PA",62,empty
+294,2020-01-01,"Sarasota/Bradenton, FL",61,empty
+2347,2020-01-07,"Pensacola, FL",61,empty
+1799,2020-01-06,"Burlington, VT",61,empty
+2173,2020-01-07,"Colorado Springs, CO",60,empty
+1394,2020-01-04,"Wichita, KS",60,empty
+1711,2020-01-05,"Springfield, MO",60,empty
+1040,2020-01-03,"White Plains, NY",60,empty
+687,2020-01-02,"White Plains, NY",60,empty
+656,2020-01-02,"Springfield, MO",60,empty
+1454,2020-01-05,"Cedar Rapids/Iowa City, IA",60,empty
+399,2020-01-02,"Cedar Rapids/Iowa City, IA",60,empty
+1534,2020-01-05,"Harrisburg, PA",59,empty
+1769,2020-01-06,"Aspen, CO",58,empty
+1121,2020-01-04,"Columbia, SC",58,empty
+1103,2020-01-04,"Cedar Rapids/Iowa City, IA",58,empty
+2065,2020-01-06,"Springfield, MO",58,empty
+2309,2020-01-07,"Midland/Odessa, TX",58,empty
+1364,2020-01-04,"St. Petersburg, FL",58,empty
+243,2020-01-01,"Pensacola, FL",58,empty
+659,2020-01-02,"St. Petersburg, FL",58,empty
+68,2020-01-01,"Colorado Springs, CO",58,empty
+1009,2020-01-03,"Springfield, MO",58,empty
+2236,2020-01-07,"Harrisburg, PA",57,empty
+829,2020-01-03,"Harrisburg, PA",56,empty
+1851,2020-01-06,"Eugene, OR",56,empty
+1315,2020-01-04,"Punta Gorda, FL",56,empty
+552,2020-01-02,"Midland/Odessa, TX",56,empty
+479,2020-01-02,"Harrisburg, PA",56,empty
+1957,2020-01-06,"Midland/Odessa, TX",56,empty
+902,2020-01-03,"Midland/Odessa, TX",56,empty
+1217,2020-01-04,"Key West, FL",56,empty
+2123,2020-01-07,"Aspen, CO",56,empty
+2157,2020-01-07,"Cedar Rapids/Iowa City, IA",56,empty
+1714,2020-01-05,"St. Petersburg, FL",56,empty
+1360,2020-01-04,"Springfield, MO",56,empty
+1820,2020-01-06,"Colorado Springs, CO",56,empty
+338,2020-01-01,"White Plains, NY",55,empty
+1810,2020-01-06,"Charlottesville, VA",55,empty
+2060,2020-01-06,"Sioux Falls, SD",55,empty
+203,2020-01-01,"Midland/Odessa, TX",55,empty
+2249,2020-01-07,"Huntsville, AL",55,empty
+1607,2020-01-05,"Midland/Odessa, TX",54,empty
+894,2020-01-03,"Manchester, NH",54,empty
+796,2020-01-03,"Eugene, OR",54,empty
+1602,2020-01-05,"Medford, OR",54,empty
+1547,2020-01-05,"Huntsville, AL",54,empty
+1811,2020-01-06,"Chattanooga, TN",54,empty
+544,2020-01-02,"Manchester, NH",54,empty
+547,2020-01-02,"Medford, OR",54,empty
+1004,2020-01-03,"Sioux Falls, SD",54,empty
+2152,2020-01-07,"Burlington, VT",54,empty
+842,2020-01-03,"Huntsville, AL",53,empty
+47,2020-01-01,"Burlington, VT",53,empty
+2408,2020-01-07,"Springfield, MO",53,empty
+1183,2020-01-04,"Harrisburg, PA",52,empty
+2019,2020-01-06,"Punta Gorda, FL",52,empty
+1665,2020-01-05,"Punta Gorda, FL",52,empty
+2163,2020-01-07,"Charlottesville, VA",52,empty
+492,2020-01-02,"Huntsville, AL",52,empty
+70,2020-01-01,"Columbia, SC",51,empty
+2395,2020-01-07,"Sarasota/Bradenton, FL",51,empty
+611,2020-01-02,"Punta Gorda, FL",50,empty
+963,2020-01-03,"Punta Gorda, FL",50,empty
+1706,2020-01-05,"Sioux Falls, SD",50,empty
+1905,2020-01-06,"Jackson/Vicksburg, MS",50,empty
+1045,2020-01-03,"Wilmington, NC",50,empty
+1392,2020-01-04,"White Plains, NY",50,empty
+1568,2020-01-05,"Key West, FL",50,empty
+897,2020-01-03,"Medford, OR",50,empty
+1949,2020-01-06,"Manchester, NH",50,empty
+52,2020-01-01,"Cedar Rapids/Iowa City, IA",50,empty
+1501,2020-01-05,"Eugene, OR",50,empty
+1694,2020-01-05,"Santa Barbara, CA",50,empty
+1792,2020-01-06,"Bozeman, MT",50,empty
+692,2020-01-02,"Wilmington, NC",50,empty
+307,2020-01-01,"Springfield, MO",50,empty
+651,2020-01-02,"Sioux Falls, SD",50,empty
+1150,2020-01-04,"Eugene, OR",50,empty
+640,2020-01-02,"Santa Barbara, CA",49,empty
+2301,2020-01-07,"Manchester, NH",49,empty
+1203,2020-01-04,"Jackson, WY",49,empty
+2136,2020-01-07,"Bend/Redmond, OR",49,empty
+2145,2020-01-07,"Bozeman, MT",49,empty
+253,2020-01-01,"Portland, ME",49,empty
+2164,2020-01-07,"Chattanooga, TN",49,empty
+992,2020-01-03,"Santa Barbara, CA",49,empty
+446,2020-01-02,"Eugene, OR",49,empty
+130,2020-01-01,"Harrisburg, PA",49,empty
+1952,2020-01-06,"Medford, OR",49,empty
+459,2020-01-02,"Fort Wayne, IN",48,empty
+182,2020-01-01,"Lexington, KY",48,empty
+1599,2020-01-05,"Manchester, NH",48,empty
+2101,2020-01-06,"Wilmington, NC",48,empty
+1248,2020-01-04,"Manchester, NH",48,empty
+798,2020-01-03,"Everett, WA",48,empty
+378,2020-01-02,"Bend/Redmond, OR",48,empty
+1503,2020-01-05,"Everett, WA",48,empty
+1505,2020-01-05,"Fargo, ND",48,empty
+728,2020-01-03,"Bend/Redmond, OR",48,empty
+448,2020-01-02,"Everett, WA",48,empty
+1783,2020-01-06,"Bend/Redmond, OR",48,empty
+2204,2020-01-07,"Eugene, OR",48,empty
+15,2020-01-01,"Asheville, NC",48,empty
+677,2020-01-02,"Valparaiso, FL",48,empty
+1514,2020-01-05,"Fort Wayne, IN",48,empty
+1344,2020-01-04,"Santa Barbara, CA",48,empty
+1460,2020-01-05,"Charlottesville, VA",47,empty
+1082,2020-01-04,"Bend/Redmond, OR",47,empty
+1747,2020-01-05,"Wilmington, NC",47,empty
+2048,2020-01-06,"Santa Barbara, CA",47,empty
+2121,2020-01-07,"Asheville, NC",47,empty
+863,2020-01-03,"Key West, FL",47,empty
+290,2020-01-01,"Santa Barbara, CA",47,empty
+497,2020-01-02,"Islip, NY",46,empty
+513,2020-01-02,"Key West, FL",46,empty
+1855,2020-01-06,"Fargo, ND",46,empty
+1406,2020-01-05,"Akron, OH",46,empty
+1461,2020-01-05,"Chattanooga, TN",46,empty
+1756,2020-01-06,"Akron, OH",46,empty
+1143,2020-01-04,"Eagle, CO",46,empty
+1918,2020-01-06,"Key West, FL",46,empty
+1433,2020-01-05,"Bend/Redmond, OR",46,empty
+450,2020-01-02,"Fargo, ND",46,empty
+100,2020-01-01,"Everett, WA",46,empty
+2257,2020-01-07,"Jackson/Vicksburg, MS",46,empty
+2206,2020-01-07,"Everett, WA",46,empty
+701,2020-01-03,"Akron, OH",46,empty
+98,2020-01-01,"Eugene, OR",46,empty
+1251,2020-01-04,"Medford, OR",46,empty
+1152,2020-01-04,"Everett, WA",46,empty
+351,2020-01-02,"Akron, OH",46,empty
+1732,2020-01-05,"Valparaiso, FL",46,empty
+198,2020-01-01,"Medford, OR",45,empty
+2062,2020-01-06,"South Bend, IN",45,empty
+1355,2020-01-04,"Sioux Falls, SD",44,empty
+1864,2020-01-06,"Fort Wayne, IN",44,empty
+1163,2020-01-04,"Fort Wayne, IN",44,empty
+1397,2020-01-04,"Wilmington, NC",44,empty
+1109,2020-01-04,"Charlottesville, VA",44,empty
+1256,2020-01-04,"Midland/Odessa, TX",44,empty
+1853,2020-01-06,"Everett, WA",44,empty
+850,2020-01-03,"Jackson/Vicksburg, MS",44,empty
+1554,2020-01-05,"Jackson, WY",44,empty
+847,2020-01-03,"Islip, NY",44,empty
+800,2020-01-03,"Fargo, ND",44,empty
+809,2020-01-03,"Fort Wayne, IN",44,empty
+31,2020-01-01,"Bend/Redmond, OR",44,empty
+1721,2020-01-05,"Tallahassee, FL",44,empty
+2075,2020-01-06,"Tallahassee, FL",44,empty
+164,2020-01-01,"Key West, FL",44,empty
+756,2020-01-03,"Chattanooga, TN",44,empty
+755,2020-01-03,"Charlottesville, VA",44,empty
+406,2020-01-02,"Chattanooga, TN",44,empty
+500,2020-01-02,"Jackson/Vicksburg, MS",44,empty
+405,2020-01-02,"Charlottesville, VA",43,empty
+343,2020-01-01,"Wilmington, NC",43,empty
+1006,2020-01-03,"South Bend, IN",43,empty
+1555,2020-01-05,"Jackson/Vicksburg, MS",43,empty
+2110,2020-01-07,"Akron, OH",43,empty
+1196,2020-01-04,"Huntsville, AL",42,empty
+4,2020-01-01,"Akron, OH",42,empty
+2392,2020-01-07,"Santa Barbara, CA",42,empty
+2270,2020-01-07,"Key West, FL",42,empty
+150,2020-01-01,"Jackson, WY",42,empty
+666,2020-01-02,"Tallahassee, FL",42,empty
+1964,2020-01-06,"Mobile, AL",42,empty
+1673,2020-01-05,"Roanoke, VA",42,empty
+849,2020-01-03,"Jackson, WY",42,empty
+1030,2020-01-03,"Valparaiso, FL",42,empty
+1595,2020-01-05,"Lubbock, TX",42,empty
+499,2020-01-02,"Jackson, WY",42,empty
+2297,2020-01-07,"Lubbock, TX",42,empty
+1019,2020-01-03,"Tallahassee, FL",42,empty
+2304,2020-01-07,"Medford, OR",41,empty
+2444,2020-01-07,"Wilmington, NC",41,empty
+1765,2020-01-06,"Appleton, WI",41,empty
+1945,2020-01-06,"Lubbock, TX",41,empty
+2403,2020-01-07,"Sioux Falls, SD",41,empty
+1002,2020-01-03,"Shreveport, LA",40,empty
+373,2020-01-02,"Baton Rouge, LA",40,empty
+971,2020-01-03,"Roanoke, VA",40,empty
+1778,2020-01-06,"Baton Rouge, LA",40,empty
+1615,2020-01-05,"Moline, IL",40,empty
+723,2020-01-03,"Baton Rouge, LA",40,empty
+2086,2020-01-06,"Valparaiso, FL",40,empty
+942,2020-01-03,"Pasco/Kennewick/Richland, WA",40,empty
+619,2020-01-02,"Roanoke, VA",40,empty
+1271,2020-01-04,"Myrtle Beach, SC",40,empty
+789,2020-01-03,"Eagle, CO",40,empty
+1552,2020-01-05,"Islip, NY",40,empty
+591,2020-01-02,"Pasco/Kennewick/Richland, WA",40,empty
+195,2020-01-01,"Manchester, NH",40,empty
+1323,2020-01-04,"Roanoke, VA",40,empty
+2208,2020-01-07,"Fargo, ND",40,empty
+1645,2020-01-05,"Pasco/Kennewick/Richland, WA",40,empty
+560,2020-01-02,"Moline, IL",40,empty
+1494,2020-01-05,"Eagle, CO",40,empty
+1428,2020-01-05,"Baton Rouge, LA",40,empty
+1371,2020-01-04,"Tallahassee, FL",40,empty
+439,2020-01-02,"Eagle, CO",40,empty
+143,2020-01-01,"Huntsville, AL",40,empty
+1055,2020-01-04,"Akron, OH",40,empty
+91,2020-01-01,"Eagle, CO",40,empty
+2058,2020-01-06,"Shreveport, LA",40,empty
+2027,2020-01-06,"Roanoke, VA",39,empty
+1708,2020-01-05,"South Bend, IN",39,empty
+1415,2020-01-05,"Appleton, WI",39,empty
+148,2020-01-01,"Islip, NY",39,empty
+1186,2020-01-04,"Hayden, CO",39,empty
+302,2020-01-01,"Sioux Falls, SD",39,empty
+653,2020-01-02,"South Bend, IN",39,empty
+1204,2020-01-04,"Jackson/Vicksburg, MS",39,empty
+1998,2020-01-06,"Pasco/Kennewick/Richland, WA",38,empty
+2217,2020-01-07,"Fort Wayne, IN",38,empty
+1127,2020-01-04,"Corpus Christi, TX",38,empty
+1382,2020-01-04,"Valparaiso, FL",38,empty
+1110,2020-01-04,"Chattanooga, TN",38,empty
+1107,2020-01-04,"Charlotte Amalie, VI",38,empty
+890,2020-01-03,"Lubbock, TX",38,empty
+540,2020-01-02,"Lubbock, TX",38,empty
+649,2020-01-02,"Shreveport, LA",38,empty
+909,2020-01-03,"Mobile, AL",38,empty
+2227,2020-01-07,"Green Bay, WI",38,empty
+2345,2020-01-07,"Pasco/Kennewick/Richland, WA",38,empty
+2001,2020-01-06,"Peoria, IL",38,empty
+1704,2020-01-05,"Shreveport, LA",38,empty
+1828,2020-01-06,"Corpus Christi, TX",37,empty
+191,2020-01-01,"Lubbock, TX",37,empty
+1154,2020-01-04,"Fargo, ND",37,empty
+2132,2020-01-07,"Baton Rouge, LA",37,empty
+218,2020-01-01,"Myrtle Beach, SC",36,empty
+151,2020-01-01,"Jackson/Vicksburg, MS",36,empty
+1614,2020-01-05,"Mobile, AL",36,empty
+118,2020-01-01,"Grand Junction, CO",36,empty
+2317,2020-01-07,"Moline, IL",36,empty
+2316,2020-01-07,"Mobile, AL",36,empty
+556,2020-01-02,"Mission/McAllen/Edinburg, TX",36,empty
+559,2020-01-02,"Mobile, AL",36,empty
+1972,2020-01-06,"Myrtle Beach, SC",36,empty
+1611,2020-01-05,"Mission/McAllen/Edinburg, TX",36,empty
+1268,2020-01-04,"Montrose/Delta, CO",36,empty
+1478,2020-01-05,"Corpus Christi, TX",36,empty
+989,2020-01-03,"San Luis Obispo, CA",36,empty
+2372,2020-01-07,"Roanoke, VA",36,empty
+2418,2020-01-07,"Tallahassee, FL",36,empty
+1691,2020-01-05,"San Luis Obispo, CA",36,empty
+75,2020-01-01,"Corpus Christi, TX",36,empty
+637,2020-01-02,"San Luis Obispo, CA",36,empty
+2119,2020-01-07,"Appleton, WI",36,empty
+423,2020-01-02,"Corpus Christi, TX",36,empty
+1294,2020-01-04,"Pasco/Kennewick/Richland, WA",36,empty
+2405,2020-01-07,"South Bend, IN",36,empty
+486,2020-01-02,"Hilo, HI",36,empty
+836,2020-01-03,"Hilo, HI",36,empty
+1341,2020-01-04,"San Luis Obispo, CA",36,empty
+1874,2020-01-06,"Green Bay, WI",35,empty
+1965,2020-01-06,"Moline, IL",35,empty
+1761,2020-01-06,"Allentown/Bethlehem/Easton, PA",35,empty
+241,2020-01-01,"Pasco/Kennewick/Richland, WA",34,empty
+773,2020-01-03,"Corpus Christi, TX",34,empty
+1541,2020-01-05,"Hilo, HI",34,empty
+1622,2020-01-05,"Myrtle Beach, SC",34,empty
+706,2020-01-03,"Allentown/Bethlehem/Easton, PA",34,empty
+2389,2020-01-07,"San Luis Obispo, CA",34,empty
+1244,2020-01-04,"Lubbock, TX",34,empty
+917,2020-01-03,"Myrtle Beach, SC",34,empty
+1524,2020-01-05,"Green Bay, WI",34,empty
+454,2020-01-02,"Flint, MI",34,empty
+469,2020-01-02,"Green Bay, WI",34,empty
+816,2020-01-03,"Grand Junction, CO",34,empty
+2243,2020-01-07,"Hilo, HI",34,empty
+1263,2020-01-04,"Mobile, AL",34,empty
+2045,2020-01-06,"San Luis Obispo, CA",34,empty
+1201,2020-01-04,"Islip, NY",34,empty
+1902,2020-01-06,"Islip, NY",34,empty
+2254,2020-01-07,"Islip, NY",34,empty
+730,2020-01-03,"Billings, MT",34,empty
+287,2020-01-01,"San Luis Obispo, CA",34,empty
+2401,2020-01-07,"Shreveport, LA",34,empty
+1357,2020-01-04,"South Bend, IN",34,empty
+2056,2020-01-06,"Scranton/Wilkes-Barre, PA",33,empty
+59,2020-01-01,"Chattanooga, TN",33,empty
+102,2020-01-01,"Fargo, ND",33,empty
+1521,2020-01-05,"Grand Junction, CO",33,empty
+466,2020-01-02,"Grand Junction, CO",33,empty
+1077,2020-01-04,"Baton Rouge, LA",33,empty
+1844,2020-01-06,"Eagle, CO",33,empty
+360,2020-01-02,"Appleton, WI",33,empty
+2344,2020-01-07,"Panama City, FL",32,empty
+2181,2020-01-07,"Corpus Christi, TX",32,empty
+133,2020-01-01,"Hayden, CO",32,empty
+328,2020-01-01,"Valparaiso, FL",32,empty
+1866,2020-01-06,"Gainesville, FL",32,empty
+1891,2020-01-06,"Hilo, HI",32,empty
+804,2020-01-03,"Flint, MI",32,empty
+567,2020-01-02,"Myrtle Beach, SC",32,empty
+910,2020-01-03,"Moline, IL",32,empty
+1060,2020-01-04,"Allentown/Bethlehem/Easton, PA",32,empty
+1785,2020-01-06,"Billings, MT",32,empty
+215,2020-01-01,"Montrose/Delta, CO",32,empty
+356,2020-01-02,"Allentown/Bethlehem/Easton, PA",32,empty
+1170,2020-01-04,"Grand Junction, CO",32,empty
+819,2020-01-03,"Green Bay, WI",32,empty
+1619,2020-01-05,"Montrose/Delta, CO",32,empty
+1509,2020-01-05,"Flint, MI",32,empty
+614,2020-01-02,"Rapid City, SD",32,empty
+945,2020-01-03,"Peoria, IL",32,empty
+137,2020-01-01,"Hilo, HI",32,empty
+58,2020-01-01,"Charlottesville, VA",32,empty
+1668,2020-01-05,"Rapid City, SD",32,empty
+380,2020-01-02,"Billings, MT",31,empty
+300,2020-01-01,"Shreveport, LA",31,empty
+1563,2020-01-05,"Kalispell, MT",31,empty
+1537,2020-01-05,"Hayden, CO",31,empty
+2219,2020-01-07,"Gainesville, FL",31,empty
+1411,2020-01-05,"Allentown/Bethlehem/Easton, PA",31,empty
+1212,2020-01-04,"Kalispell, MT",31,empty
+1871,2020-01-06,"Grand Junction, CO",31,empty
+1859,2020-01-06,"Flint, MI",31,empty
+264,2020-01-01,"Rapid City, SD",31,empty
+26,2020-01-01,"Baton Rouge, LA",31,empty
+1702,2020-01-05,"Scranton/Wilkes-Barre, PA",31,empty
+269,2020-01-01,"Roanoke, VA",31,empty
+1644,2020-01-05,"Panama City, FL",30,empty
+211,2020-01-01,"Moline, IL",30,empty
+1190,2020-01-04,"Hilo, HI",30,empty
+590,2020-01-02,"Panama City, FL",30,empty
+2205,2020-01-07,"Evansville, IN",30,empty
+1788,2020-01-06,"Bismarck/Mandan, ND",30,empty
+1962,2020-01-06,"Missoula, MT",30,empty
+1961,2020-01-06,"Mission/McAllen/Edinburg, TX",30,empty
+2348,2020-01-07,"Peoria, IL",30,empty
+1852,2020-01-06,"Evansville, IN",30,empty
+1353,2020-01-04,"Shreveport, LA",30,empty
+811,2020-01-03,"Gainesville, FL",30,empty
+1173,2020-01-04,"Green Bay, WI",30,empty
+508,2020-01-02,"Kalispell, MT",30,empty
+1064,2020-01-04,"Appleton, WI",30,empty
+461,2020-01-02,"Gainesville, FL",30,empty
+564,2020-01-02,"Montrose/Delta, CO",30,empty
+557,2020-01-02,"Missoula, MT",30,empty
+1772,2020-01-06,"Augusta, GA",30,empty
+1612,2020-01-05,"Missoula, MT",30,empty
+1000,2020-01-03,"Scranton/Wilkes-Barre, PA",30,empty
+111,2020-01-01,"Fort Wayne, IN",30,empty
+941,2020-01-03,"Panama City, FL",30,empty
+647,2020-01-02,"Scranton/Wilkes-Barre, PA",30,empty
+304,2020-01-01,"South Bend, IN",30,empty
+2117,2020-01-07,"Amarillo, TX",30,empty
+1264,2020-01-04,"Moline, IL",30,empty
+1883,2020-01-06,"Harlingen/San Benito, TX",30,empty
+1997,2020-01-06,"Panama City, FL",30,empty
+914,2020-01-03,"Montrose/Delta, CO",30,empty
+1260,2020-01-04,"Mission/McAllen/Edinburg, TX",30,empty
+1763,2020-01-06,"Amarillo, TX",30,empty
+966,2020-01-03,"Rapid City, SD",30,empty
+906,2020-01-03,"Mission/McAllen/Edinburg, TX",30,empty
+288,2020-01-01,"Sanford, FL",30,empty
+1435,2020-01-05,"Billings, MT",30,empty
+33,2020-01-01,"Billings, MT",30,empty
+907,2020-01-03,"Missoula, MT",30,empty
+2429,2020-01-07,"Valparaiso, FL",30,empty
+129,2020-01-01,"Harlingen/San Benito, TX",30,empty
+1013,2020-01-03,"State College, PA",30,empty
+1293,2020-01-04,"Panama City, FL",30,empty
+1516,2020-01-05,"Gainesville, FL",30,empty
+1648,2020-01-05,"Peoria, IL",29,empty
+298,2020-01-01,"Scranton/Wilkes-Barre, PA",29,empty
+1807,2020-01-06,"Charleston/Dunbar, WV",29,empty
+2399,2020-01-07,"Scranton/Wilkes-Barre, PA",29,empty
+710,2020-01-03,"Appleton, WI",29,empty
+1967,2020-01-06,"Monterey, CA",29,empty
+2324,2020-01-07,"Myrtle Beach, SC",29,empty
+1351,2020-01-04,"Scranton/Wilkes-Barre, PA",29,empty
+2115,2020-01-07,"Allentown/Bethlehem/Easton, PA",29,empty
+1084,2020-01-04,"Billings, MT",29,empty
+1261,2020-01-04,"Missoula, MT",28,empty
+2197,2020-01-07,"Eagle, CO",28,empty
+733,2020-01-03,"Bismarck/Mandan, ND",28,empty
+317,2020-01-01,"Tallahassee, FL",28,empty
+208,2020-01-01,"Missoula, MT",28,empty
+358,2020-01-02,"Amarillo, TX",28,empty
+708,2020-01-03,"Amarillo, TX",28,empty
+1458,2020-01-05,"Charlotte Amalie, VI",28,empty
+1457,2020-01-05,"Charleston/Dunbar, WV",28,empty
+1413,2020-01-05,"Amarillo, TX",28,empty
+717,2020-01-03,"Augusta, GA",28,empty
+478,2020-01-02,"Harlingen/San Benito, TX",28,empty
+2069,2020-01-06,"State College, PA",28,empty
+858,2020-01-03,"Kalispell, MT",28,empty
+2126,2020-01-07,"Augusta, GA",28,empty
+207,2020-01-01,"Mission/McAllen/Edinburg, TX",28,empty
+2141,2020-01-07,"Bismarck/Mandan, ND",28,empty
+1165,2020-01-04,"Gainesville, FL",28,empty
+1422,2020-01-05,"Augusta, GA",28,empty
+1533,2020-01-05,"Harlingen/San Benito, TX",28,empty
+660,2020-01-02,"State College, PA",28,empty
+383,2020-01-02,"Bismarck/Mandan, ND",28,empty
+403,2020-01-02,"Charlotte Amalie, VI",28,empty
+1178,2020-01-04,"Gulfport/Biloxi, MS",28,empty
+1158,2020-01-04,"Flint, MI",28,empty
+240,2020-01-01,"Panama City, FL",28,empty
+159,2020-01-01,"Kalispell, MT",28,empty
+1438,2020-01-05,"Bismarck/Mandan, ND",28,empty
+210,2020-01-01,"Mobile, AL",28,empty
+594,2020-01-02,"Peoria, IL",28,empty
+1879,2020-01-06,"Gulfport/Biloxi, MS",28,empty
+367,2020-01-02,"Augusta, GA",28,empty
+2160,2020-01-07,"Charleston/Dunbar, WV",27,empty
+2051,2020-01-06,"Santa Rosa, CA",27,empty
+912,2020-01-03,"Monterey, CA",27,empty
+2235,2020-01-07,"Harlingen/San Benito, TX",27,empty
+1904,2020-01-06,"Jackson, WY",27,empty
+2022,2020-01-06,"Rapid City, SD",27,empty
+56,2020-01-01,"Charlotte Amalie, VI",26,empty
+1697,2020-01-05,"Santa Rosa, CA",26,empty
+2313,2020-01-07,"Mission/McAllen/Edinburg, TX",26,empty
+2277,2020-01-07,"Lafayette, LA",26,empty
+474,2020-01-02,"Gulfport/Biloxi, MS",26,empty
+1346,2020-01-04,"Santa Rosa, CA",26,empty
+1375,2020-01-04,"Traverse City, MI",26,empty
+1365,2020-01-04,"State College, PA",26,empty
+402,2020-01-02,"Charleston/Dunbar, WV",26,empty
+1297,2020-01-04,"Peoria, IL",26,empty
+1318,2020-01-04,"Rapid City, SD",26,empty
+1925,2020-01-06,"Lafayette, LA",26,empty
+1182,2020-01-04,"Harlingen/San Benito, TX",26,empty
+1529,2020-01-05,"Gulfport/Biloxi, MS",26,empty
+438,2020-01-02,"Durango, CO",26,empty
+389,2020-01-02,"Bristol/Johnson City/Kingsport, TN",26,empty
+482,2020-01-02,"Hayden, CO",26,empty
+1493,2020-01-05,"Durango, CO",26,empty
+1715,2020-01-05,"State College, PA",26,empty
+642,2020-01-02,"Santa Rosa, CA",26,empty
+1617,2020-01-05,"Monterey, CA",26,empty
+753,2020-01-03,"Charlotte Amalie, VI",26,empty
+870,2020-01-03,"Lafayette, LA",26,empty
+752,2020-01-03,"Charleston/Dunbar, WV",26,empty
+2138,2020-01-07,"Billings, MT",26,empty
+1808,2020-01-06,"Charlotte Amalie, VI",26,empty
+995,2020-01-03,"Santa Rosa, CA",26,empty
+1575,2020-01-05,"Lafayette, LA",26,empty
+520,2020-01-02,"Lafayette, LA",26,empty
+13,2020-01-01,"Appleton, WI",26,empty
+562,2020-01-02,"Monterey, CA",26,empty
+1502,2020-01-05,"Evansville, IN",26,empty
+1444,2020-01-05,"Bristol/Johnson City/Kingsport, TN",26,empty
+106,2020-01-01,"Flint, MI",26,empty
+90,2020-01-01,"Durango, CO",26,empty
+788,2020-01-03,"Durango, CO",26,empty
+828,2020-01-03,"Harlingen/San Benito, TX",26,empty
+824,2020-01-03,"Gulfport/Biloxi, MS",26,empty
+11,2020-01-01,"Amarillo, TX",25,empty
+1794,2020-01-06,"Bristol/Johnson City/Kingsport, TN",25,empty
+36,2020-01-01,"Bismarck/Mandan, ND",25,empty
+293,2020-01-01,"Santa Rosa, CA",25,empty
+1106,2020-01-04,"Charleston/Dunbar, WV",25,empty
+1913,2020-01-06,"Kalispell, MT",25,empty
+2320,2020-01-07,"Montgomery, AL",25,empty
+449,2020-01-02,"Fairbanks, AK",24,empty
+2280,2020-01-07,"Lansing, MI",24,empty
+1062,2020-01-04,"Amarillo, TX",24,empty
+670,2020-01-02,"Traverse City, MI",24,empty
+447,2020-01-02,"Evansville, IN",24,empty
+2412,2020-01-07,"State College, PA",24,empty
+1910,2020-01-06,"Juneau, AK",24,empty
+1968,2020-01-06,"Montgomery, AL",24,empty
+213,2020-01-01,"Monterey, CA",24,empty
+101,2020-01-01,"Fairbanks, AK",24,empty
+2367,2020-01-07,"Rapid City, SD",24,empty
+2265,2020-01-07,"Kalispell, MT",24,empty
+1023,2020-01-03,"Traverse City, MI",24,empty
+739,2020-01-03,"Bristol/Johnson City/Kingsport, TN",24,empty
+9,2020-01-01,"Allentown/Bethlehem/Easton, PA",24,empty
+1071,2020-01-04,"Augusta, GA",24,empty
+2207,2020-01-07,"Fairbanks, AK",24,empty
+2314,2020-01-07,"Missoula, MT",24,empty
+1142,2020-01-04,"Durango, CO",24,empty
+2232,2020-01-07,"Gulfport/Biloxi, MS",24,empty
+1843,2020-01-06,"Durango, CO",24,empty
+855,2020-01-03,"Juneau, AK",24,empty
+1928,2020-01-06,"Lansing, MI",24,empty
+799,2020-01-03,"Fairbanks, AK",24,empty
+1725,2020-01-05,"Traverse City, MI",24,empty
+1854,2020-01-06,"Fairbanks, AK",24,empty
+1857,2020-01-06,"Fayetteville, NC",24,empty
+832,2020-01-03,"Hayden, CO",24,empty
+505,2020-01-02,"Juneau, AK",24,empty
+20,2020-01-01,"Augusta, GA",24,empty
+1075,2020-01-04,"Bangor, ME",24,empty
+2079,2020-01-06,"Traverse City, MI",24,empty
+2147,2020-01-07,"Bristol/Johnson City/Kingsport, TN",23,empty
+2262,2020-01-07,"Juneau, AK",23,empty
+126,2020-01-01,"Gulfport/Biloxi, MS",23,empty
+113,2020-01-01,"Gainesville, FL",23,empty
+2028,2020-01-06,"Rochester, MN",23,empty
+1266,2020-01-04,"Monterey, CA",23,empty
+171,2020-01-01,"Lafayette, LA",22,empty
+1630,2020-01-05,"Newport News/Williamsburg, VA",22,empty
+244,2020-01-01,"Peoria, IL",22,empty
+2264,2020-01-07,"Kalamazoo, MI",22,empty
+925,2020-01-03,"Newport News/Williamsburg, VA",22,empty
+1010,2020-01-03,"St. George, UT",22,empty
+121,2020-01-01,"Green Bay, WI",22,empty
+1224,2020-01-04,"Lafayette, LA",22,empty
+797,2020-01-03,"Evansville, IN",22,empty
+802,2020-01-03,"Fayetteville, NC",22,empty
+972,2020-01-03,"Rochester, MN",22,empty
+2373,2020-01-07,"Rochester, MN",22,empty
+857,2020-01-03,"Kalamazoo, MI",22,empty
+657,2020-01-02,"St. George, UT",22,empty
+2409,2020-01-07,"St. George, UT",22,empty
+1324,2020-01-04,"Rochester, MN",22,empty
+1507,2020-01-05,"Fayetteville, NC",22,empty
+2066,2020-01-06,"St. George, UT",22,empty
+1087,2020-01-04,"Bismarck/Mandan, ND",22,empty
+1969,2020-01-06,"Montrose/Delta, CO",22,empty
+1712,2020-01-05,"St. George, UT",22,empty
+1156,2020-01-04,"Fayetteville, NC",22,empty
+1560,2020-01-05,"Juneau, AK",22,empty
+1093,2020-01-04,"Bristol/Johnson City/Kingsport, TN",22,empty
+575,2020-01-02,"Newport News/Williamsburg, VA",22,empty
+1504,2020-01-05,"Fairbanks, AK",22,empty
+620,2020-01-02,"Rochester, MN",22,empty
+2161,2020-01-07,"Charlotte Amalie, VI",22,empty
+2256,2020-01-07,"Jackson, WY",22,empty
+2210,2020-01-07,"Fayetteville, NC",22,empty
+452,2020-01-02,"Fayetteville, NC",22,empty
+1912,2020-01-06,"Kalamazoo, MI",22,empty
+507,2020-01-02,"Kalamazoo, MI",22,empty
+1939,2020-01-06,"Lincoln, NE",22,empty
+1151,2020-01-04,"Evansville, IN",22,empty
+2394,2020-01-07,"Santa Rosa, CA",21,empty
+2291,2020-01-07,"Lincoln, NE",21,empty
+2130,2020-01-07,"Bangor, ME",21,empty
+311,2020-01-01,"State College, PA",21,empty
+1776,2020-01-06,"Bangor, ME",21,empty
+1980,2020-01-06,"Newport News/Williamsburg, VA",21,empty
+2319,2020-01-07,"Monterey, CA",21,empty
+1562,2020-01-05,"Kalamazoo, MI",21,empty
+873,2020-01-03,"Lansing, MI",20,empty
+468,2020-01-02,"Great Falls, MT",20,empty
+1771,2020-01-06,"Atlantic City, NJ",20,empty
+1431,2020-01-05,"Bellingham, WA",20,empty
+561,2020-01-02,"Monroe, LA",20,empty
+1376,2020-01-04,"Trenton, NJ",20,empty
+1131,2020-01-04,"Daytona Beach, FL",20,empty
+1070,2020-01-04,"Atlantic City, NJ",20,empty
+2224,2020-01-07,"Grand Junction, CO",20,empty
+1209,2020-01-04,"Juneau, AK",20,empty
+818,2020-01-03,"Great Falls, MT",20,empty
+523,2020-01-02,"Lansing, MI",20,empty
+322,2020-01-01,"Trenton, NJ",20,empty
+321,2020-01-01,"Traverse City, MI",20,empty
+1578,2020-01-05,"Lansing, MI",20,empty
+315,2020-01-01,"Sun Valley/Hailey/Ketchum, ID",20,empty
+1953,2020-01-06,"Melbourne, FL",20,empty
+19,2020-01-01,"Atlantic City, NJ",20,empty
+913,2020-01-03,"Montgomery, AL",20,empty
+911,2020-01-03,"Monroe, LA",20,empty
+777,2020-01-03,"Daytona Beach, FL",20,empty
+156,2020-01-01,"Juneau, AK",20,empty
+1421,2020-01-05,"Atlantic City, NJ",20,empty
+1919,2020-01-06,"Killeen, TX",20,empty
+2080,2020-01-06,"Trenton, NJ",20,empty
+716,2020-01-03,"Atlantic City, NJ",20,empty
+1153,2020-01-04,"Fairbanks, AK",20,empty
+563,2020-01-02,"Montgomery, AL",20,empty
+1279,2020-01-04,"Newport News/Williamsburg, VA",20,empty
+1482,2020-01-05,"Daytona Beach, FL",20,empty
+1362,2020-01-04,"St. George, UT",20,empty
+427,2020-01-02,"Daytona Beach, FL",20,empty
+1024,2020-01-03,"Trenton, NJ",20,empty
+1017,2020-01-03,"Sun Valley/Hailey/Ketchum, ID",20,empty
+1719,2020-01-05,"Sun Valley/Hailey/Ketchum, ID",20,empty
+1907,2020-01-06,"Jacksonville/Camp Lejeune, NC",20,empty
+664,2020-01-02,"Sun Valley/Hailey/Ketchum, ID",20,empty
+1832,2020-01-06,"Daytona Beach, FL",20,empty
+2422,2020-01-07,"Traverse City, MI",20,empty
+1439,2020-01-05,"Bloomington/Normal, IL",20,empty
+376,2020-01-02,"Bellingham, WA",20,empty
+1616,2020-01-05,"Monroe, LA",20,empty
+1369,2020-01-04,"Sun Valley/Hailey/Ketchum, ID",20,empty
+1966,2020-01-06,"Monroe, LA",20,empty
+366,2020-01-02,"Atlantic City, NJ",20,empty
+1426,2020-01-05,"Bangor, ME",19,empty
+437,2020-01-02,"Duluth, MN",19,empty
+1618,2020-01-05,"Montgomery, AL",19,empty
+55,2020-01-01,"Charleston/Dunbar, WV",19,empty
+2212,2020-01-07,"Flint, MI",19,empty
+534,2020-01-02,"Lincoln, NE",18,empty
+1760,2020-01-06,"Alexandria, LA",18,empty
+1603,2020-01-05,"Melbourne, FL",18,empty
+884,2020-01-03,"Lincoln, NE",18,empty
+1227,2020-01-04,"Lansing, MI",18,empty
+1887,2020-01-06,"Hayden, CO",18,empty
+1970,2020-01-06,"Mosinee, WI",18,empty
+384,2020-01-02,"Bloomington/Normal, IL",18,empty
+1523,2020-01-05,"Great Falls, MT",18,empty
+1218,2020-01-04,"Killeen, TX",18,empty
+1147,2020-01-04,"Elmira/Corning, NY",18,empty
+1589,2020-01-05,"Lincoln, NE",18,empty
+864,2020-01-03,"Killeen, TX",18,empty
+2318,2020-01-07,"Monroe, LA",18,empty
+270,2020-01-01,"Rochester, MN",18,empty
+174,2020-01-01,"Lansing, MI",18,empty
+514,2020-01-02,"Killeen, TX",18,empty
+852,2020-01-03,"Jacksonville/Camp Lejeune, NC",18,empty
+1781,2020-01-06,"Bellingham, WA",18,empty
+2322,2020-01-07,"Mosinee, WI",18,empty
+1492,2020-01-05,"Duluth, MN",18,empty
+502,2020-01-02,"Jacksonville/Camp Lejeune, NC",18,empty
+2259,2020-01-07,"Jacksonville/Camp Lejeune, NC",18,empty
+1842,2020-01-06,"Duluth, MN",18,empty
+2332,2020-01-07,"Newport News/Williamsburg, VA",18,empty
+548,2020-01-02,"Melbourne, FL",18,empty
+2378,2020-01-07,"Saginaw/Bay City/Midland, MI",18,empty
+787,2020-01-03,"Duluth, MN",18,empty
+1960,2020-01-06,"Minot, ND",18,empty
+120,2020-01-01,"Great Falls, MT",18,empty
+1080,2020-01-04,"Bellingham, WA",18,empty
+2195,2020-01-07,"Duluth, MN",18,empty
+1557,2020-01-05,"Jacksonville/Camp Lejeune, NC",18,empty
+1674,2020-01-05,"Rochester, MN",18,empty
+99,2020-01-01,"Evansville, IN",18,empty
+705,2020-01-03,"Alexandria, LA",18,empty
+2114,2020-01-07,"Alexandria, LA",18,empty
+1569,2020-01-05,"Killeen, TX",18,empty
+355,2020-01-02,"Alexandria, LA",18,empty
+1269,2020-01-04,"Mosinee, WI",18,empty
+726,2020-01-03,"Bellingham, WA",18,empty
+1267,2020-01-04,"Montgomery, AL",18,empty
+721,2020-01-03,"Bangor, ME",18,empty
+565,2020-01-02,"Mosinee, WI",18,empty
+924,2020-01-03,"Newburgh/Poughkeepsie, NY",18,empty
+1789,2020-01-06,"Bloomington/Normal, IL",18,empty
+371,2020-01-02,"Bangor, ME",18,empty
+2142,2020-01-07,"Bloomington/Normal, IL",18,empty
+89,2020-01-01,"Duluth, MN",18,empty
+158,2020-01-01,"Kalamazoo, MI",18,empty
+898,2020-01-03,"Melbourne, FL",18,empty
+2196,2020-01-07,"Durango, CO",18,empty
+308,2020-01-01,"St. George, UT",18,empty
+42,2020-01-01,"Bristol/Johnson City/Kingsport, TN",18,empty
+915,2020-01-03,"Mosinee, WI",18,empty
+2305,2020-01-07,"Melbourne, FL",18,empty
+1620,2020-01-05,"Mosinee, WI",18,empty
+2185,2020-01-07,"Daytona Beach, FL",18,empty
+1238,2020-01-04,"Lincoln, NE",18,empty
+2034,2020-01-06,"Saginaw/Bay City/Midland, MI",17,empty
+1211,2020-01-04,"Kalamazoo, MI",17,empty
+1410,2020-01-05,"Alexandria, LA",16,empty
+2423,2020-01-07,"Trenton, NJ",16,empty
+1471,2020-01-05,"Columbia, MO",16,empty
+1424,2020-01-05,"Bakersfield, CA",16,empty
+1821,2020-01-06,"Columbia, MO",16,empty
+1508,2020-01-05,"Flagstaff, AZ",16,empty
+1774,2020-01-06,"Bakersfield, CA",16,empty
+1726,2020-01-05,"Trenton, NJ",16,empty
+1345,2020-01-04,"Santa Fe, NM",16,empty
+493,2020-01-02,"Idaho Falls, ID",16,empty
+416,2020-01-02,"Columbia, MO",16,empty
+216,2020-01-01,"Mosinee, WI",16,empty
+1088,2020-01-04,"Bloomington/Normal, IL",16,empty
+1073,2020-01-04,"Bakersfield, CA",16,empty
+214,2020-01-01,"Montgomery, AL",16,empty
+1054,2020-01-04,"Aguadilla, PR",16,empty
+165,2020-01-01,"Killeen, TX",16,empty
+104,2020-01-01,"Fayetteville, NC",16,empty
+1979,2020-01-06,"Newburgh/Poughkeepsie, NY",16,empty
+2239,2020-01-07,"Hayden, CO",16,empty
+105,2020-01-01,"Flagstaff, AZ",16,empty
+453,2020-01-02,"Flagstaff, AZ",16,empty
+993,2020-01-03,"Santa Fe, NM",16,empty
+498,2020-01-02,"Ithaca/Cortland, NY",16,empty
+1548,2020-01-05,"Idaho Falls, ID",16,empty
+22,2020-01-01,"Bakersfield, CA",16,empty
+2049,2020-01-06,"Santa Fe, NM",16,empty
+848,2020-01-03,"Ithaca/Cortland, NY",16,empty
+843,2020-01-03,"Idaho Falls, ID",16,empty
+555,2020-01-02,"Minot, ND",16,empty
+574,2020-01-02,"Newburgh/Poughkeepsie, NY",16,empty
+803,2020-01-03,"Flagstaff, AZ",16,empty
+2158,2020-01-07,"Champaign/Urbana, IL",16,empty
+766,2020-01-03,"Columbia, MO",16,empty
+641,2020-01-02,"Santa Fe, NM",16,empty
+671,2020-01-02,"Trenton, NJ",16,empty
+734,2020-01-03,"Bloomington/Normal, IL",16,empty
+719,2020-01-03,"Bakersfield, CA",16,empty
+1120,2020-01-04,"Columbia, MO",16,empty
+212,2020-01-01,"Monroe, LA",16,empty
+700,2020-01-03,"Aguadilla, PR",16,empty
+350,2020-01-02,"Aguadilla, PR",16,empty
+1252,2020-01-04,"Melbourne, FL",16,empty
+291,2020-01-01,"Santa Fe, NM",16,empty
+1898,2020-01-06,"Idaho Falls, ID",16,empty
+1206,2020-01-04,"Jacksonville/Camp Lejeune, NC",16,empty
+2321,2020-01-07,"Montrose/Delta, CO",16,empty
+1202,2020-01-04,"Ithaca/Cortland, NY",16,empty
+310,2020-01-01,"St. Petersburg, FL",16,empty
+69,2020-01-01,"Columbia, MO",16,empty
+79,2020-01-01,"Daytona Beach, FL",16,empty
+1172,2020-01-04,"Great Falls, MT",16,empty
+1858,2020-01-06,"Flagstaff, AZ",16,empty
+1157,2020-01-04,"Flagstaff, AZ",16,empty
+226,2020-01-01,"Newport News/Williamsburg, VA",16,empty
+3,2020-01-01,"Aguadilla, PR",16,empty
+1141,2020-01-04,"Duluth, MN",16,empty
+1695,2020-01-05,"Santa Fe, NM",16,empty
+1265,2020-01-04,"Monroe, LA",16,empty
+369,2020-01-02,"Bakersfield, CA",16,empty
+24,2020-01-01,"Bangor, ME",15,empty
+1755,2020-01-06,"Aguadilla, PR",15,empty
+1873,2020-01-06,"Great Falls, MT",15,empty
+443,2020-01-02,"Elmira/Corning, NY",15,empty
+1680,2020-01-05,"Saginaw/Bay City/Midland, MI",15,empty
+2125,2020-01-07,"Atlantic City, NJ",15,empty
+669,2020-01-02,"Toledo, OH",14,empty
+1624,2020-01-05,"New Bern/Morehead/Beaufort, NC",14,empty
+2128,2020-01-07,"Bakersfield, CA",14,empty
+261,2020-01-01,"Punta Gorda, FL",14,empty
+1629,2020-01-05,"Newburgh/Poughkeepsie, NY",14,empty
+626,2020-01-02,"Saginaw/Bay City/Midland, MI",14,empty
+697,2020-01-02,"Yuma, AZ",14,empty
+2174,2020-01-07,"Columbia, MO",14,empty
+397,2020-01-02,"Casper, WY",14,empty
+185,2020-01-01,"Lincoln, NE",14,empty
+569,2020-01-02,"New Bern/Morehead/Beaufort, NC",14,empty
+541,2020-01-02,"Lynchburg, VA",14,empty
+1455,2020-01-05,"Champaign/Urbana, IL",14,empty
+2312,2020-01-07,"Minot, ND",14,empty
+400,2020-01-02,"Champaign/Urbana, IL",14,empty
+525,2020-01-02,"Laredo, TX",14,empty
+2211,2020-01-07,"Flagstaff, AZ",14,empty
+206,2020-01-01,"Minot, ND",14,empty
+37,2020-01-01,"Bloomington/Normal, IL",14,empty
+347,2020-01-01,"Yuma, AZ",14,empty
+361,2020-01-02,"Arcata/Eureka, CA",14,empty
+2250,2020-01-07,"Idaho Falls, ID",14,empty
+2271,2020-01-07,"Killeen, TX",14,empty
+390,2020-01-02,"Brownsville, TX",14,empty
+2202,2020-01-07,"Erie, PA",14,empty
+2393,2020-01-07,"Santa Fe, NM",14,empty
+711,2020-01-03,"Arcata/Eureka, CA",14,empty
+1974,2020-01-06,"New Bern/Morehead/Beaufort, NC",14,empty
+1405,2020-01-05,"Aguadilla, PR",14,empty
+1197,2020-01-04,"Idaho Falls, ID",14,empty
+1402,2020-01-04,"Yuma, AZ",14,empty
+978,2020-01-03,"Saginaw/Bay City/Midland, MI",14,empty
+50,2020-01-01,"Casper, WY",14,empty
+740,2020-01-03,"Brownsville, TX",14,empty
+1008,2020-01-03,"Springfield, IL",14,empty
+1022,2020-01-03,"Toledo, OH",14,empty
+1539,2020-01-05,"Helena, MT",14,empty
+1580,2020-01-05,"Laredo, TX",14,empty
+1050,2020-01-03,"Yuma, AZ",14,empty
+1065,2020-01-04,"Arcata/Eureka, CA",14,empty
+1553,2020-01-05,"Ithaca/Cortland, NY",14,empty
+1946,2020-01-06,"Lynchburg, VA",14,empty
+1101,2020-01-04,"Casper, WY",14,empty
+1104,2020-01-04,"Champaign/Urbana, IL",14,empty
+1930,2020-01-06,"Laredo, TX",14,empty
+1826,2020-01-06,"Concord, NC",14,empty
+919,2020-01-03,"New Bern/Morehead/Beaufort, NC",14,empty
+891,2020-01-03,"Lynchburg, VA",14,empty
+1374,2020-01-04,"Toledo, OH",14,empty
+771,2020-01-03,"Concord, NC",14,empty
+2109,2020-01-07,"Aguadilla, PR",14,empty
+747,2020-01-03,"Casper, WY",14,empty
+750,2020-01-03,"Champaign/Urbana, IL",14,empty
+53,2020-01-01,"Champaign/Urbana, IL",14,empty
+2106,2020-01-06,"Yuma, AZ",14,empty
+1849,2020-01-06,"Erie, PA",14,empty
+2416,2020-01-07,"Sun Valley/Hailey/Ketchum, ID",14,empty
+1245,2020-01-04,"Lynchburg, VA",14,empty
+153,2020-01-01,"Jacksonville/Camp Lejeune, NC",14,empty
+1903,2020-01-06,"Ithaca/Cortland, NY",14,empty
+793,2020-01-03,"Elmira/Corning, NY",14,empty
+1805,2020-01-06,"Champaign/Urbana, IL",14,empty
+2078,2020-01-06,"Toledo, OH",14,empty
+1416,2020-01-05,"Arcata/Eureka, CA",14,empty
+1889,2020-01-06,"Helena, MT",14,empty
+1724,2020-01-05,"Toledo, OH",14,empty
+2073,2020-01-06,"Sun Valley/Hailey/Ketchum, ID",14,empty
+1596,2020-01-05,"Lynchburg, VA",14,empty
+1752,2020-01-05,"Yuma, AZ",14,empty
+43,2020-01-01,"Brownsville, TX",13,empty
+2241,2020-01-07,"Helena, MT",13,empty
+1498,2020-01-05,"Elmira/Corning, NY",13,empty
+1452,2020-01-05,"Casper, WY",13,empty
+1445,2020-01-05,"Brownsville, TX",13,empty
+1542,2020-01-05,"Hilton Head, SC",12,empty
+1754,2020-01-06,"Abilene, TX",12,empty
+1574,2020-01-05,"La Crosse, WI",12,empty
+1710,2020-01-05,"Springfield, IL",12,empty
+29,2020-01-01,"Bellingham, WA",12,empty
+1513,2020-01-05,"Fort Smith, AR",12,empty
+1766,2020-01-06,"Arcata/Eureka, CA",12,empty
+1610,2020-01-05,"Minot, ND",12,empty
+1499,2020-01-05,"Erie, PA",12,empty
+8,2020-01-01,"Alexandria, LA",12,empty
+2331,2020-01-07,"Newburgh/Poughkeepsie, NY",12,empty
+862,2020-01-03,"Ketchikan, AK",12,empty
+176,2020-01-01,"Laredo, TX",12,empty
+794,2020-01-03,"Erie, PA",12,empty
+276,2020-01-01,"Saginaw/Bay City/Midland, MI",12,empty
+1229,2020-01-04,"Laredo, TX",12,empty
+2282,2020-01-07,"Laredo, TX",12,empty
+2255,2020-01-07,"Ithaca/Cortland, NY",12,empty
+1,2020-01-01,"Abilene, TX",12,empty
+1223,2020-01-04,"La Crosse, WI",12,empty
+1892,2020-01-06,"Hilton Head, SC",12,empty
+2084,2020-01-06,"Tyler, TX",12,empty
+1191,2020-01-04,"Hilton Head, SC",12,empty
+1188,2020-01-04,"Helena, MT",12,empty
+1028,2020-01-03,"Tyler, TX",12,empty
+2244,2020-01-07,"Hilton Head, SC",12,empty
+2120,2020-01-07,"Arcata/Eureka, CA",12,empty
+1917,2020-01-06,"Ketchikan, AK",12,empty
+2064,2020-01-06,"Springfield, IL",12,empty
+1148,2020-01-04,"Erie, PA",12,empty
+1924,2020-01-06,"La Crosse, WI",12,empty
+163,2020-01-01,"Ketchikan, AK",12,empty
+655,2020-01-02,"Springfield, IL",12,empty
+2148,2020-01-07,"Brownsville, TX",12,empty
+170,2020-01-01,"La Crosse, WI",12,empty
+2298,2020-01-07,"Lynchburg, VA",12,empty
+1059,2020-01-04,"Alexandria, LA",12,empty
+349,2020-01-02,"Abilene, TX",12,empty
+1259,2020-01-04,"Minot, ND",12,empty
+1273,2020-01-04,"New Bern/Morehead/Beaufort, NC",12,empty
+1359,2020-01-04,"Springfield, IL",12,empty
+464,2020-01-02,"Grand Forks, ND",12,empty
+444,2020-01-02,"Erie, PA",12,empty
+869,2020-01-03,"La Crosse, WI",12,empty
+2226,2020-01-07,"Great Falls, MT",12,empty
+1795,2020-01-06,"Brownsville, TX",12,empty
+1802,2020-01-06,"Casper, WY",12,empty
+1404,2020-01-05,"Abilene, TX",12,empty
+484,2020-01-02,"Helena, MT",12,empty
+487,2020-01-02,"Hilton Head, SC",12,empty
+837,2020-01-03,"Hilton Head, SC",12,empty
+875,2020-01-03,"Laredo, TX",12,empty
+512,2020-01-02,"Ketchikan, AK",12,empty
+699,2020-01-03,"Abilene, TX",12,empty
+519,2020-01-02,"La Crosse, WI",12,empty
+149,2020-01-01,"Ithaca/Cortland, NY",12,empty
+834,2020-01-03,"Helena, MT",12,empty
+1330,2020-01-04,"Saginaw/Bay City/Midland, MI",12,empty
+2269,2020-01-07,"Ketchikan, AK",12,empty
+138,2020-01-01,"Hilton Head, SC",12,empty
+199,2020-01-01,"Melbourne, FL",12,empty
+1303,2020-01-04,"Plattsburgh, NY",12,empty
+1863,2020-01-06,"Fort Smith, AR",12,empty
+905,2020-01-03,"Minot, ND",12,empty
+192,2020-01-01,"Lynchburg, VA",12,empty
+1278,2020-01-04,"Newburgh/Poughkeepsie, NY",12,empty
+96,2020-01-01,"Erie, PA",11,empty
+1567,2020-01-05,"Ketchikan, AK",11,empty
+1016,2020-01-03,"Stockton, CA",11,empty
+2155,2020-01-07,"Casper, WY",11,empty
+1216,2020-01-04,"Ketchikan, AK",11,empty
+14,2020-01-01,"Arcata/Eureka, CA",11,empty
+1519,2020-01-05,"Grand Forks, ND",11,empty
+1848,2020-01-06,"Elmira/Corning, NY",11,empty
+2222,2020-01-07,"Grand Forks, ND",10,empty
+475,2020-01-02,"Gunnison, CO",10,empty
+2216,2020-01-07,"Fort Smith, AR",10,empty
+522,2020-01-02,"Lanai, HI",10,empty
+2201,2020-01-07,"Elmira/Corning, NY",10,empty
+610,2020-01-02,"Pullman, WA",10,empty
+545,2020-01-02,"Manhattan/Ft. Riley, KS",10,empty
+825,2020-01-03,"Gunnison, CO",10,empty
+2381,2020-01-07,"Salisbury, MD",10,empty
+600,2020-01-02,"Plattsburgh, NY",10,empty
+814,2020-01-03,"Grand Forks, ND",10,empty
+1600,2020-01-05,"Manhattan/Ft. Riley, KS",10,empty
+808,2020-01-03,"Fort Smith, AR",10,empty
+2172,2020-01-07,"College Station/Bryan, TX",10,empty
+2445,2020-01-07,"Worcester, MA",10,empty
+693,2020-01-02,"Worcester, MA",10,empty
+691,2020-01-02,"Williston, ND",10,empty
+629,2020-01-02,"Salisbury, MD",10,empty
+409,2020-01-02,"Christiansted, VI",10,empty
+675,2020-01-02,"Tyler, TX",10,empty
+713,2020-01-03,"Ashland, WV",10,empty
+173,2020-01-01,"Lanai, HI",10,empty
+220,2020-01-01,"New Bern/Morehead/Beaufort, NC",10,empty
+631,2020-01-02,"San Angelo, TX",10,empty
+2108,2020-01-07,"Abilene, TX",10,empty
+225,2020-01-01,"Newburgh/Poughkeepsie, NY",10,empty
+1664,2020-01-05,"Pullman, WA",10,empty
+2102,2020-01-06,"Worcester, MA",10,empty
+414,2020-01-02,"College Station/Bryan, TX",10,empty
+2443,2020-01-07,"Williston, ND",10,empty
+764,2020-01-03,"College Station/Bryan, TX",10,empty
+2100,2020-01-06,"Williston, ND",10,empty
+2449,2020-01-07,"Yuma, AZ",10,empty
+2037,2020-01-06,"Salisbury, MD",10,empty
+2276,2020-01-07,"La Crosse, WI",10,empty
+260,2020-01-01,"Pullman, WA",10,empty
+144,2020-01-01,"Idaho Falls, ID",10,empty
+1927,2020-01-06,"Lanai, HI",10,empty
+1926,2020-01-06,"Lake Charles, LA",10,empty
+1162,2020-01-04,"Fort Smith, AR",10,empty
+306,2020-01-01,"Springfield, IL",10,empty
+1168,2020-01-04,"Grand Forks, ND",10,empty
+1179,2020-01-04,"Gunnison, CO",10,empty
+279,2020-01-01,"Salisbury, MD",10,empty
+1530,2020-01-05,"Gunnison, CO",10,empty
+1226,2020-01-04,"Lanai, HI",10,empty
+1880,2020-01-06,"Gunnison, CO",10,empty
+1249,2020-01-04,"Manhattan/Ft. Riley, KS",10,empty
+2421,2020-01-07,"Toledo, OH",10,empty
+1748,2020-01-05,"Worcester, MA",10,empty
+1314,2020-01-04,"Pullman, WA",10,empty
+1333,2020-01-04,"Salisbury, MD",10,empty
+1335,2020-01-04,"San Angelo, TX",10,empty
+1683,2020-01-05,"Salisbury, MD",10,empty
+1380,2020-01-04,"Tyler, TX",10,empty
+1819,2020-01-06,"College Station/Bryan, TX",10,empty
+1685,2020-01-05,"San Angelo, TX",10,empty
+1396,2020-01-04,"Williston, ND",10,empty
+1768,2020-01-06,"Ashland, WV",10,empty
+2326,2020-01-07,"New Bern/Morehead/Beaufort, NC",10,empty
+1464,2020-01-05,"Christiansted, VI",10,empty
+1469,2020-01-05,"College Station/Bryan, TX",10,empty
+326,2020-01-01,"Tyler, TX",10,empty
+2302,2020-01-07,"Manhattan/Ft. Riley, KS",10,empty
+1094,2020-01-04,"Brownsville, TX",10,empty
+2018,2020-01-06,"Pullman, WA",10,empty
+872,2020-01-03,"Lanai, HI",10,empty
+2278,2020-01-07,"Lake Charles, LA",10,empty
+895,2020-01-03,"Manhattan/Ft. Riley, KS",10,empty
+1730,2020-01-05,"Tyler, TX",10,empty
+135,2020-01-01,"Helena, MT",10,empty
+2039,2020-01-06,"San Angelo, TX",10,empty
+1577,2020-01-05,"Lanai, HI",10,empty
+127,2020-01-01,"Gunnison, CO",10,empty
+458,2020-01-02,"Fort Smith, AR",10,empty
+2279,2020-01-07,"Lanai, HI",10,empty
+342,2020-01-01,"Williston, ND",10,empty
+951,2020-01-03,"Plattsburgh, NY",10,empty
+1950,2020-01-06,"Manhattan/Ft. Riley, KS",10,empty
+1654,2020-01-05,"Plattsburgh, NY",10,empty
+962,2020-01-03,"Pullman, WA",10,empty
+1746,2020-01-05,"Williston, ND",10,empty
+95,2020-01-01,"Elmira/Corning, NY",10,empty
+981,2020-01-03,"Salisbury, MD",10,empty
+983,2020-01-03,"San Angelo, TX",10,empty
+110,2020-01-01,"Fort Smith, AR",10,empty
+1044,2020-01-03,"Williston, ND",10,empty
+1067,2020-01-04,"Ashland, WV",10,empty
+1052,2020-01-04,"Abilene, TX",10,empty
+1046,2020-01-03,"Worcester, MA",10,empty
+1718,2020-01-05,"Stockton, CA",9,empty
+1869,2020-01-06,"Grand Forks, ND",9,empty
+281,2020-01-01,"San Angelo, TX",9,empty
+2007,2020-01-06,"Plattsburgh, NY",9,empty
+2240,2020-01-07,"Hays, KS",8,empty
+2267,2020-01-07,"Kapalua, HI",8,empty
+2447,2020-01-07,"Yakima, WA",8,empty
+2431,2020-01-07,"Waco, TX",8,empty
+1705,2020-01-05,"Sioux City, IA",8,empty
+2233,2020-01-07,"Gunnison, CO",8,empty
+2427,2020-01-07,"Tyler, TX",8,empty
+1814,2020-01-06,"Christiansted, VI",8,empty
+1824,2020-01-06,"Columbus, MS",8,empty
+1840,2020-01-06,"Dothan, AL",8,empty
+1876,2020-01-06,"Greenville, NC",8,empty
+1888,2020-01-06,"Hays, KS",8,empty
+1909,2020-01-06,"Joplin, MO",8,empty
+2407,2020-01-07,"Springfield, IL",8,empty
+1915,2020-01-06,"Kapalua, HI",8,empty
+2402,2020-01-07,"Sioux City, IA",8,empty
+1933,2020-01-06,"Lawton/Fort Sill, OK",8,empty
+1750,2020-01-05,"Yakima, WA",8,empty
+2023,2020-01-06,"Redding, CA",8,empty
+1740,2020-01-05,"Wenatchee, WA",8,empty
+2032,2020-01-06,"Roswell, NM",8,empty
+1734,2020-01-05,"Waco, TX",8,empty
+2383,2020-01-07,"San Angelo, TX",8,empty
+1780,2020-01-06,"Belleville, IL",8,empty
+2072,2020-01-06,"Stockton, CA",8,empty
+2083,2020-01-06,"Twin Falls, ID",8,empty
+2088,2020-01-06,"Waco, TX",8,empty
+2094,2020-01-06,"Wenatchee, WA",8,empty
+2104,2020-01-06,"Yakima, WA",8,empty
+2376,2020-01-07,"Roswell, NM",8,empty
+2134,2020-01-07,"Bellingham, WA",8,empty
+2368,2020-01-07,"Redding, CA",8,empty
+2364,2020-01-07,"Pullman, WA",8,empty
+2177,2020-01-07,"Columbus, MS",8,empty
+2193,2020-01-07,"Dothan, AL",8,empty
+2059,2020-01-06,"Sioux City, IA",8,empty
+1225,2020-01-04,"Lake Charles, LA",8,empty
+1187,2020-01-04,"Hays, KS",8,empty
+1538,2020-01-05,"Hays, KS",8,empty
+1175,2020-01-04,"Greenville, NC",8,empty
+363,2020-01-02,"Ashland, WV",8,empty
+1214,2020-01-04,"Kapalua, HI",8,empty
+346,2020-01-01,"Yakima, WA",8,empty
+1232,2020-01-04,"Lawton/Fort Sill, OK",8,empty
+344,2020-01-01,"Worcester, MA",8,empty
+336,2020-01-01,"Wenatchee, WA",8,empty
+1280,2020-01-04,"Niagara Falls, NY",8,empty
+325,2020-01-01,"Twin Falls, ID",8,empty
+320,2020-01-01,"Toledo, OH",8,empty
+1319,2020-01-04,"Redding, CA",8,empty
+301,2020-01-01,"Sioux City, IA",8,empty
+1327,2020-01-04,"Rockford, IL",8,empty
+1328,2020-01-04,"Roswell, NM",8,empty
+265,2020-01-01,"Redding, CA",8,empty
+1354,2020-01-04,"Sioux City, IA",8,empty
+250,2020-01-01,"Plattsburgh, NY",8,empty
+1384,2020-01-04,"Waco, TX",8,empty
+1390,2020-01-04,"Wenatchee, WA",8,empty
+1398,2020-01-04,"Worcester, MA",8,empty
+196,2020-01-01,"Manhattan/Ft. Riley, KS",8,empty
+1400,2020-01-04,"Yakima, WA",8,empty
+1418,2020-01-05,"Ashland, WV",8,empty
+161,2020-01-01,"Kapalua, HI",8,empty
+155,2020-01-01,"Joplin, MO",8,empty
+1476,2020-01-05,"Concord, NC",8,empty
+123,2020-01-01,"Greenville, NC",8,empty
+116,2020-01-01,"Grand Forks, ND",8,empty
+1490,2020-01-05,"Dothan, AL",8,empty
+1125,2020-01-04,"Concord, NC",8,empty
+421,2020-01-02,"Concord, NC",8,empty
+1118,2020-01-04,"College Station/Bryan, TX",8,empty
+878,2020-01-03,"Lawton/Fort Sill, OK",8,empty
+685,2020-01-02,"Wenatchee, WA",8,empty
+725,2020-01-03,"Belleville, IL",8,empty
+679,2020-01-02,"Waco, TX",8,empty
+759,2020-01-03,"Christiansted, VI",8,empty
+663,2020-01-02,"Stockton, CA",8,empty
+650,2020-01-02,"Sioux City, IA",8,empty
+821,2020-01-03,"Greenville, NC",8,empty
+624,2020-01-02,"Roswell, NM",8,empty
+833,2020-01-03,"Hays, KS",8,empty
+615,2020-01-02,"Redding, CA",8,empty
+854,2020-01-03,"Joplin, MO",8,empty
+860,2020-01-03,"Kapalua, HI",8,empty
+871,2020-01-03,"Lake Charles, LA",8,empty
+896,2020-01-03,"Marquette, MI",8,empty
+1113,2020-01-04,"Christiansted, VI",8,empty
+546,2020-01-02,"Marquette, MI",8,empty
+967,2020-01-03,"Redding, CA",8,empty
+528,2020-01-02,"Lawton/Fort Sill, OK",8,empty
+521,2020-01-02,"Lake Charles, LA",8,empty
+976,2020-01-03,"Roswell, NM",8,empty
+510,2020-01-02,"Kapalua, HI",8,empty
+504,2020-01-02,"Joplin, MO",8,empty
+1003,2020-01-03,"Sioux City, IA",8,empty
+1032,2020-01-03,"Waco, TX",8,empty
+1038,2020-01-03,"Wenatchee, WA",8,empty
+1048,2020-01-03,"Yakima, WA",8,empty
+471,2020-01-02,"Greenville, NC",8,empty
+1079,2020-01-04,"Belleville, IL",8,empty
+1526,2020-01-05,"Greenville, NC",8,empty
+695,2020-01-02,"Yakima, WA",8,empty
+1559,2020-01-05,"Joplin, MO",8,empty
+1669,2020-01-05,"Redding, CA",8,empty
+67,2020-01-01,"College Station/Bryan, TX",8,empty
+1583,2020-01-05,"Lawton/Fort Sill, OK",8,empty
+1565,2020-01-05,"Kapalua, HI",8,empty
+1576,2020-01-05,"Lake Charles, LA",8,empty
+1678,2020-01-05,"Roswell, NM",8,empty
+172,2020-01-01,"Lake Charles, LA",7,empty
+179,2020-01-01,"Lawton/Fort Sill, OK",7,empty
+274,2020-01-01,"Roswell, NM",7,empty
+330,2020-01-01,"Waco, TX",7,empty
+242,2020-01-01,"Pellston, MI",7,empty
+1601,2020-01-05,"Marquette, MI",7,empty
+1041,2020-01-03,"Wichita Falls, TX",6,empty
+980,2020-01-03,"Salina, KS",6,empty
+2229,2020-01-07,"Greenville, NC",6,empty
+1036,2020-01-03,"Watertown, NY",6,empty
+473,2020-01-02,"Guam, TT",6,empty
+1033,2020-01-03,"Walla Walla, WA",6,empty
+2231,2020-01-07,"Guam, TT",6,empty
+1716,2020-01-05,"Staunton, VA",6,empty
+465,2020-01-02,"Grand Island, NE",6,empty
+1631,2020-01-05,"Niagara Falls, NY",6,empty
+527,2020-01-02,"Latrobe, PA",6,empty
+1029,2020-01-03,"Valdosta, GA",6,empty
+2008,2020-01-06,"Pocatello, ID",6,empty
+463,2020-01-02,"Gillette, WY",6,empty
+1027,2020-01-03,"Twin Falls, ID",6,empty
+1021,2020-01-03,"Texarkana, AR",6,empty
+488,2020-01-02,"Hobbs, NM",6,empty
+1014,2020-01-03,"Staunton, VA",6,empty
+2440,2020-01-07,"Wichita Falls, TX",6,empty
+490,2020-01-02,"Hoolehua, HI",6,empty
+1005,2020-01-03,"Sitka, AK",6,empty
+503,2020-01-02,"Jamestown, ND",6,empty
+2437,2020-01-07,"Wenatchee, WA",6,empty
+1637,2020-01-05,"Ogdensburg, NY",6,empty
+2213,2020-01-07,"Florence, SC",6,empty
+511,2020-01-02,"Kearney, NE",6,empty
+483,2020-01-02,"Hays, KS",6,empty
+1543,2020-01-05,"Hobbs, NM",6,empty
+455,2020-01-02,"Florence, SC",6,empty
+1177,2020-01-04,"Guam, TT",6,empty
+1159,2020-01-04,"Florence, SC",6,empty
+381,2020-01-02,"Binghamton, NY",6,empty
+1916,2020-01-06,"Kearney, NE",6,empty
+1167,2020-01-04,"Gillette, WY",6,empty
+1169,2020-01-04,"Grand Island, NE",6,empty
+1723,2020-01-05,"Texarkana, AR",6,empty
+2268,2020-01-07,"Kearney, NE",6,empty
+436,2020-01-02,"Dubuque, IA",6,empty
+1908,2020-01-06,"Jamestown, ND",6,empty
+375,2020-01-02,"Belleville, IL",6,empty
+1194,2020-01-04,"Hoolehua, HI",6,empty
+1598,2020-01-05,"Mammoth Lakes, CA",6,empty
+1207,2020-01-04,"Jamestown, ND",6,empty
+1208,2020-01-04,"Joplin, MO",6,empty
+391,2020-01-02,"Brunswick, GA",6,empty
+1140,2020-01-04,"Dubuque, IA",6,empty
+1139,2020-01-04,"Dothan, AL",6,empty
+2261,2020-01-07,"Joplin, MO",6,empty
+419,2020-01-02,"Columbus, MS",6,empty
+1932,2020-01-06,"Latrobe, PA",6,empty
+1123,2020-01-04,"Columbus, MS",6,empty
+74,2020-01-01,"Concord, NC",6,empty
+428,2020-01-02,"Deadhorse, AK",6,empty
+1115,2020-01-04,"Clarksburg/Fairmont, WV",6,empty
+1942,2020-01-06,"Longview, TX",6,empty
+2247,2020-01-07,"Hoolehua, HI",6,empty
+1948,2020-01-06,"Mammoth Lakes, CA",6,empty
+2245,2020-01-07,"Hobbs, NM",6,empty
+435,2020-01-02,"Dothan, AL",6,empty
+1951,2020-01-06,"Marquette, MI",6,empty
+961,2020-01-03,"Pueblo, CO",6,empty
+2009,2020-01-06,"Ponce, PR",6,empty
+537,2020-01-02,"Longview, TX",6,empty
+960,2020-01-03,"Provo, UT",6,empty
+661,2020-01-02,"Staunton, VA",6,empty
+2070,2020-01-06,"Staunton, VA",6,empty
+623,2020-01-02,"Rockford, IL",6,empty
+1663,2020-01-05,"Pueblo, CO",6,empty
+815,2020-01-03,"Grand Island, NE",6,empty
+2077,2020-01-06,"Texarkana, AR",6,empty
+813,2020-01-03,"Gillette, WY",6,empty
+805,2020-01-03,"Florence, SC",6,empty
+786,2020-01-03,"Dubuque, IA",6,empty
+2085,2020-01-06,"Valdosta, GA",6,empty
+785,2020-01-03,"Dothan, AL",6,empty
+2089,2020-01-06,"Walla Walla, WA",6,empty
+652,2020-01-02,"Sitka, AK",6,empty
+2149,2020-01-07,"Brunswick, GA",6,empty
+2092,2020-01-06,"Watertown, NY",6,empty
+778,2020-01-03,"Deadhorse, AK",6,empty
+530,2020-01-02,"Lewiston, ID",6,empty
+2097,2020-01-06,"Wichita Falls, TX",6,empty
+769,2020-01-03,"Columbus, MS",6,empty
+668,2020-01-02,"Texarkana, AR",6,empty
+674,2020-01-02,"Twin Falls, ID",6,empty
+761,2020-01-03,"Clarksburg/Fairmont, WV",6,empty
+676,2020-01-02,"Valdosta, GA",6,empty
+1676,2020-01-05,"Rock Springs, WY",6,empty
+680,2020-01-02,"Walla Walla, WA",6,empty
+2111,2020-01-07,"Albany, GA",6,empty
+741,2020-01-03,"Brunswick, GA",6,empty
+731,2020-01-03,"Binghamton, NY",6,empty
+683,2020-01-02,"Watertown, NY",6,empty
+1677,2020-01-05,"Rockford, IL",6,empty
+688,2020-01-02,"Wichita Falls, TX",6,empty
+1662,2020-01-05,"Provo, UT",6,empty
+838,2020-01-03,"Hobbs, NM",6,empty
+840,2020-01-03,"Hoolehua, HI",6,empty
+853,2020-01-03,"Jamestown, ND",6,empty
+1215,2020-01-04,"Kearney, NE",6,empty
+2016,2020-01-06,"Provo, UT",6,empty
+2017,2020-01-06,"Pueblo, CO",6,empty
+543,2020-01-02,"Mammoth Lakes, CA",6,empty
+953,2020-01-03,"Ponce, PR",6,empty
+952,2020-01-03,"Pocatello, ID",6,empty
+2194,2020-01-07,"Dubuque, IA",6,empty
+943,2020-01-03,"Pellston, MI",6,empty
+576,2020-01-02,"Niagara Falls, NY",6,empty
+2186,2020-01-07,"Deadhorse, AK",6,empty
+582,2020-01-02,"Ogdensburg, NY",6,empty
+2036,2020-01-06,"Salina, KS",6,empty
+926,2020-01-03,"Niagara Falls, NY",6,empty
+592,2020-01-02,"Pellston, MI",6,empty
+2176,2020-01-07,"Columbus, GA",6,empty
+1655,2020-01-05,"Pocatello, ID",6,empty
+893,2020-01-03,"Mammoth Lakes, CA",6,empty
+887,2020-01-03,"Longview, TX",6,empty
+601,2020-01-02,"Pocatello, ID",6,empty
+880,2020-01-03,"Lewiston, ID",6,empty
+602,2020-01-02,"Ponce, PR",6,empty
+1656,2020-01-05,"Ponce, PR",6,empty
+877,2020-01-03,"Latrobe, PA",6,empty
+1659,2020-01-05,"Prescott, AZ",6,empty
+608,2020-01-02,"Provo, UT",6,empty
+2167,2020-01-07,"Christiansted, VI",6,empty
+861,2020-01-03,"Kearney, NE",6,empty
+16,2020-01-01,"Ashland, WV",6,empty
+2061,2020-01-06,"Sitka, AK",6,empty
+1592,2020-01-05,"Longview, TX",6,empty
+1682,2020-01-05,"Salina, KS",6,empty
+1895,2020-01-06,"Hoolehua, HI",6,empty
+252,2020-01-01,"Ponce, PR",6,empty
+1558,2020-01-05,"Jamestown, ND",6,empty
+1332,2020-01-04,"Salina, KS",6,empty
+2380,2020-01-07,"Salina, KS",6,empty
+141,2020-01-01,"Hoolehua, HI",6,empty
+1735,2020-01-05,"Walla Walla, WA",6,empty
+1784,2020-01-06,"Bethel, AK",6,empty
+139,2020-01-01,"Hobbs, NM",6,empty
+303,2020-01-01,"Sitka, AK",6,empty
+1313,2020-01-04,"Pueblo, CO",6,empty
+1309,2020-01-04,"Prescott, AZ",6,empty
+1305,2020-01-04,"Ponce, PR",6,empty
+2415,2020-01-07,"Stockton, CA",6,empty
+1860,2020-01-06,"Florence, SC",6,empty
+1304,2020-01-04,"Pocatello, ID",6,empty
+314,2020-01-01,"Stockton, CA",6,empty
+319,2020-01-01,"Texarkana, AR",6,empty
+2303,2020-01-07,"Marquette, MI",6,empty
+1582,2020-01-05,"Latrobe, PA",6,empty
+2413,2020-01-07,"Staunton, VA",6,empty
+1841,2020-01-06,"Dubuque, IA",6,empty
+1738,2020-01-05,"Watertown, NY",6,empty
+1731,2020-01-05,"Valdosta, GA",6,empty
+251,2020-01-01,"Pocatello, ID",6,empty
+197,2020-01-01,"Marquette, MI",6,empty
+1816,2020-01-06,"Clarksburg/Fairmont, WV",6,empty
+1566,2020-01-05,"Kearney, NE",6,empty
+1743,2020-01-05,"Wichita Falls, TX",6,empty
+2355,2020-01-07,"Pocatello, ID",6,empty
+2356,2020-01-07,"Ponce, PR",6,empty
+1388,2020-01-04,"Watertown, NY",6,empty
+194,2020-01-01,"Mammoth Lakes, CA",6,empty
+1823,2020-01-06,"Columbus, GA",6,empty
+62,2020-01-01,"Christiansted, VI",6,empty
+1381,2020-01-04,"Valdosta, GA",6,empty
+1373,2020-01-04,"Texarkana, AR",6,empty
+1368,2020-01-04,"Stockton, CA",6,empty
+1430,2020-01-05,"Belleville, IL",6,empty
+1366,2020-01-04,"Staunton, VA",6,empty
+1833,2020-01-06,"Deadhorse, AK",6,empty
+178,2020-01-01,"Latrobe, PA",6,empty
+1796,2020-01-06,"Brunswick, GA",6,empty
+2420,2020-01-07,"Texarkana, AR",6,empty
+1286,2020-01-04,"Ogdensburg, NY",6,empty
+1474,2020-01-05,"Columbus, MS",6,empty
+1393,2020-01-04,"Wichita Falls, TX",6,empty
+2426,2020-01-07,"Twin Falls, ID",6,empty
+1250,2020-01-04,"Marquette, MI",6,empty
+1518,2020-01-05,"Gillette, WY",6,empty
+88,2020-01-01,"Dubuque, IA",6,empty
+1545,2020-01-05,"Hoolehua, HI",6,empty
+1247,2020-01-04,"Mammoth Lakes, CA",6,empty
+2294,2020-01-07,"Longview, TX",6,empty
+1729,2020-01-05,"Twin Falls, ID",6,empty
+1510,2020-01-05,"Florence, SC",6,empty
+1274,2020-01-04,"New Haven, CT",6,empty
+334,2020-01-01,"Watertown, NY",6,empty
+2285,2020-01-07,"Lawton/Fort Sill, OK",6,empty
+1520,2020-01-05,"Grand Island, NE",6,empty
+1231,2020-01-04,"Latrobe, PA",6,empty
+2428,2020-01-07,"Valdosta, GA",6,empty
+1491,2020-01-05,"Dubuque, IA",6,empty
+80,2020-01-01,"Deadhorse, AK",6,empty
+1870,2020-01-06,"Grand Island, NE",6,empty
+1757,2020-01-06,"Albany, GA",6,empty
+2300,2020-01-07,"Mammoth Lakes, CA",6,empty
+1893,2020-01-06,"Hobbs, NM",6,empty
+1707,2020-01-05,"Sitka, AK",5,empty
+1999,2020-01-06,"Pellston, MI",5,empty
+188,2020-01-01,"Longview, TX",5,empty
+339,2020-01-01,"Wichita Falls, TX",5,empty
+2346,2020-01-07,"Pellston, MI",5,empty
+1356,2020-01-04,"Sitka, AK",5,empty
+1981,2020-01-06,"Niagara Falls, NY",5,empty
+2404,2020-01-07,"Sitka, AK",5,empty
+609,2020-01-02,"Pueblo, CO",5,empty
+628,2020-01-02,"Salina, KS",5,empty
+627,2020-01-02,"Saipan, TT",4,empty
+97,2020-01-01,"Escanaba, MI",4,empty
+2135,2020-01-07,"Bemidji, MN",4,empty
+606,2020-01-02,"Presque Isle/Houlton, ME",4,empty
+86,2020-01-01,"Dickinson, ND",4,empty
+81,2020-01-01,"Del Rio, TX",4,empty
+2171,2020-01-07,"Cody, WY",4,empty
+2133,2020-01-07,"Beaumont/Port Arthur, TX",4,empty
+181,2020-01-01,"Lewiston, ID",4,empty
+605,2020-01-02,"Prescott, AZ",4,empty
+2363,2020-01-07,"Pueblo, CO",4,empty
+2414,2020-01-07,"Stillwater, OK",4,empty
+684,2020-01-02,"Watertown, SD",4,empty
+2359,2020-01-07,"Prescott, AZ",4,empty
+117,2020-01-01,"Grand Island, NE",4,empty
+107,2020-01-01,"Florence, SC",4,empty
+646,2020-01-02,"Scottsbluff, NE",4,empty
+2146,2020-01-07,"Brainerd, MN",4,empty
+2131,2020-01-07,"Barrow, AK",4,empty
+2411,2020-01-07,"St. Petersburg, FL",4,empty
+2354,2020-01-07,"Plattsburgh, NY",4,empty
+598,2020-01-02,"Pierre, SD",4,empty
+72,2020-01-01,"Columbus, MS",4,empty
+595,2020-01-02,"Petersburg, AK",4,empty
+2352,2020-01-07,"Pierre, SD",4,empty
+690,2020-01-02,"Williamsport, PA",4,empty
+2180,2020-01-07,"Cordova, AK",4,empty
+694,2020-01-02,"Wrangell, AK",4,empty
+114,2020-01-01,"Garden City, KS",4,empty
+2446,2020-01-07,"Wrangell, AK",4,empty
+2390,2020-01-07,"Sanford, FL",4,empty
+5,2020-01-01,"Albany, GA",4,empty
+2396,2020-01-07,"Sault Ste. Marie, MI",4,empty
+678,2020-01-02,"Vernal, UT",4,empty
+147,2020-01-01,"Iron Mountain/Kingsfd, MI",4,empty
+622,2020-01-02,"Rock Springs, WY",4,empty
+2448,2020-01-07,"Yakutat, AK",4,empty
+617,2020-01-02,"Rhinelander, WI",4,empty
+136,2020-01-01,"Hibbing, MN",4,empty
+10,2020-01-01,"Alpena, MI",4,empty
+2139,2020-01-07,"Binghamton, NY",4,empty
+2379,2020-01-07,"Saipan, TT",4,empty
+154,2020-01-01,"Jamestown, ND",4,empty
+2137,2020-01-07,"Bethel, AK",4,empty
+612,2020-01-02,"Quincy, IL",4,empty
+2375,2020-01-07,"Rock Springs, WY",4,empty
+2169,2020-01-07,"Clarksburg/Fairmont, WV",4,empty
+162,2020-01-01,"Kearney, NE",4,empty
+169,2020-01-01,"Kotzebue, AK",4,empty
+587,2020-01-02,"Paducah, KY",4,empty
+682,2020-01-02,"Waterloo, IA",4,empty
+2156,2020-01-07,"Cedar City, UT",4,empty
+644,2020-01-02,"Sault Ste. Marie, MI",4,empty
+2153,2020-01-07,"Butte, MT",4,empty
+2442,2020-01-07,"Williamsport, PA",4,empty
+94,2020-01-01,"Elko, NV",4,empty
+87,2020-01-01,"Dothan, AL",4,empty
+2370,2020-01-07,"Rhinelander, WI",4,empty
+125,2020-01-01,"Guam, TT",4,empty
+662,2020-01-02,"Stillwater, OK",4,empty
+245,2020-01-01,"Petersburg, AK",4,empty
+580,2020-01-02,"North Platte, NE",4,empty
+2434,2020-01-07,"Waterloo, IA",4,empty
+333,2020-01-01,"Waterloo, IA",4,empty
+34,2020-01-01,"Binghamton, NY",4,empty
+2253,2020-01-07,"Iron Mountain/Kingsfd, MI",4,empty
+331,2020-01-01,"Walla Walla, WA",4,empty
+2252,2020-01-07,"International Falls, MN",4,empty
+422,2020-01-02,"Cordova, AK",4,empty
+327,2020-01-01,"Valdosta, GA",4,empty
+2432,2020-01-07,"Walla Walla, WA",4,empty
+429,2020-01-02,"Del Rio, TX",4,empty
+433,2020-01-02,"Devils Lake, ND",4,empty
+434,2020-01-02,"Dickinson, ND",4,empty
+2242,2020-01-07,"Hibbing, MN",4,empty
+440,2020-01-02,"Eau Claire, WI",4,empty
+442,2020-01-02,"Elko, NV",4,empty
+30,2020-01-01,"Bemidji, MN",4,empty
+445,2020-01-02,"Escanaba, MI",4,empty
+2238,2020-01-07,"Hattiesburg/Laurel, MS",4,empty
+462,2020-01-02,"Garden City, KS",4,empty
+2234,2020-01-07,"Hancock/Houghton, MI",4,empty
+418,2020-01-02,"Columbus, GA",4,empty
+413,2020-01-02,"Cody, WY",4,empty
+411,2020-01-02,"Clarksburg/Fairmont, WV",4,empty
+379,2020-01-02,"Bethel, AK",4,empty
+352,2020-01-02,"Albany, GA",4,empty
+2275,2020-01-07,"Kotzebue, AK",4,empty
+372,2020-01-02,"Barrow, AK",4,empty
+2273,2020-01-07,"Kodiak, AK",4,empty
+348,2020-01-02,"Aberdeen, SD",4,empty
+374,2020-01-02,"Beaumont/Port Arthur, TX",4,empty
+696,2020-01-02,"Yakutat, AK",4,empty
+377,2020-01-02,"Bemidji, MN",4,empty
+41,2020-01-01,"Brainerd, MN",4,empty
+2260,2020-01-07,"Jamestown, ND",4,empty
+345,2020-01-01,"Wrangell, AK",4,empty
+2287,2020-01-07,"Lewiston, ID",4,empty
+2289,2020-01-07,"Liberal, KS",4,empty
+388,2020-01-02,"Brainerd, MN",4,empty
+395,2020-01-02,"Butte, MT",4,empty
+396,2020-01-02,"Cape Girardeau, MO",4,empty
+398,2020-01-02,"Cedar City, UT",4,empty
+335,2020-01-01,"Watertown, SD",4,empty
+313,2020-01-01,"Stillwater, OK",4,empty
+2307,2020-01-07,"Meridian, MS",4,empty
+2187,2020-01-07,"Del Rio, TX",4,empty
+312,2020-01-01,"Staunton, VA",4,empty
+27,2020-01-01,"Beaumont/Port Arthur, TX",4,empty
+524,2020-01-02,"Laramie, WY",4,empty
+529,2020-01-02,"Lewisburg, WV",4,empty
+2333,2020-01-07,"Nome, AK",4,empty
+357,2020-01-02,"Alpena, MI",4,empty
+2203,2020-01-07,"Escanaba, MI",4,empty
+2342,2020-01-07,"Paducah, KY",4,empty
+2200,2020-01-07,"Elko, NV",4,empty
+228,2020-01-01,"Nome, AK",4,empty
+2198,2020-01-07,"Eau Claire, WI",4,empty
+25,2020-01-01,"Barrow, AK",4,empty
+550,2020-01-02,"Meridian, MS",4,empty
+2349,2020-01-07,"Petersburg, AK",4,empty
+566,2020-01-02,"Muskegon, MI",4,empty
+201,2020-01-01,"Meridian, MS",4,empty
+2192,2020-01-07,"Dickinson, ND",4,empty
+570,2020-01-02,"New Haven, CT",4,empty
+66,2020-01-01,"Cody, WY",4,empty
+577,2020-01-02,"Nome, AK",4,empty
+518,2020-01-02,"Kotzebue, AK",4,empty
+28,2020-01-01,"Belleville, IL",4,empty
+516,2020-01-02,"Kodiak, AK",4,empty
+267,2020-01-01,"Rhinelander, WI",4,empty
+44,2020-01-01,"Brunswick, GA",4,empty
+477,2020-01-02,"Hancock/Houghton, MI",4,empty
+48,2020-01-01,"Butte, MT",4,empty
+481,2020-01-02,"Hattiesburg/Laurel, MS",4,empty
+295,2020-01-01,"Sault Ste. Marie, MI",4,empty
+2435,2020-01-07,"Watertown, NY",4,empty
+485,2020-01-02,"Hibbing, MN",4,empty
+273,2020-01-01,"Rockford, IL",4,empty
+51,2020-01-01,"Cedar City, UT",4,empty
+255,2020-01-01,"Prescott, AZ",4,empty
+2223,2020-01-07,"Grand Island, NE",4,empty
+2221,2020-01-07,"Gillette, WY",4,empty
+2220,2020-01-07,"Garden City, KS",4,empty
+2323,2020-01-07,"Muskegon, MI",4,empty
+495,2020-01-02,"International Falls, MN",4,empty
+256,2020-01-01,"Presque Isle/Houlton, ME",4,empty
+2436,2020-01-07,"Watertown, SD",4,empty
+496,2020-01-02,"Iron Mountain/Kingsfd, MI",4,empty
+2430,2020-01-07,"Vernal, UT",4,empty
+831,2020-01-03,"Hattiesburg/Laurel, MS",4,empty
+698,2020-01-03,"Aberdeen, SD",4,empty
+1117,2020-01-04,"Cody, WY",4,empty
+1281,2020-01-04,"Nome, AK",4,empty
+1284,2020-01-04,"North Platte, NE",4,empty
+1868,2020-01-06,"Gillette, WY",4,empty
+1867,2020-01-06,"Garden City, KS",4,empty
+1291,2020-01-04,"Paducah, KY",4,empty
+1298,2020-01-04,"Petersburg, AK",4,empty
+1301,2020-01-04,"Pierre, SD",4,empty
+1308,2020-01-04,"Portsmouth, NH",4,empty
+1321,2020-01-04,"Rhinelander, WI",4,empty
+1850,2020-01-06,"Escanaba, MI",4,empty
+1326,2020-01-04,"Rock Springs, WY",4,empty
+1847,2020-01-06,"Elko, NV",4,empty
+1845,2020-01-06,"Eau Claire, WI",4,empty
+1331,2020-01-04,"Saipan, TT",4,empty
+1350,2020-01-04,"Scottsbluff, NE",4,empty
+1839,2020-01-06,"Dickinson, ND",4,empty
+1838,2020-01-06,"Devils Lake, ND",4,empty
+1361,2020-01-04,"St. Cloud, MN",4,empty
+1834,2020-01-06,"Del Rio, TX",4,empty
+1367,2020-01-04,"Stillwater, OK",4,empty
+1379,2020-01-04,"Twin Falls, ID",4,empty
+1827,2020-01-06,"Cordova, AK",4,empty
+1385,2020-01-04,"Walla Walla, WA",4,empty
+1387,2020-01-04,"Waterloo, IA",4,empty
+1389,2020-01-04,"Watertown, SD",4,empty
+1818,2020-01-06,"Cody, WY",4,empty
+1395,2020-01-04,"Williamsport, PA",4,empty
+1270,2020-01-04,"Muskegon, MI",4,empty
+1254,2020-01-04,"Meridian, MS",4,empty
+1878,2020-01-06,"Guam, TT",4,empty
+1181,2020-01-04,"Hancock/Houghton, MI",4,empty
+1937,2020-01-06,"Liberal, KS",4,empty
+1935,2020-01-06,"Lewiston, ID",4,empty
+1126,2020-01-04,"Cordova, AK",4,empty
+1132,2020-01-04,"Deadhorse, AK",4,empty
+1929,2020-01-06,"Laramie, WY",4,empty
+1133,2020-01-04,"Del Rio, TX",4,empty
+1137,2020-01-04,"Devils Lake, ND",4,empty
+1138,2020-01-04,"Dickinson, ND",4,empty
+1923,2020-01-06,"Kotzebue, AK",4,empty
+1144,2020-01-04,"Eau Claire, WI",4,empty
+1921,2020-01-06,"Kodiak, AK",4,empty
+1166,2020-01-04,"Garden City, KS",4,empty
+1185,2020-01-04,"Hattiesburg/Laurel, MS",4,empty
+1882,2020-01-06,"Hancock/Houghton, MI",4,empty
+1192,2020-01-04,"Hobbs, NM",4,empty
+1901,2020-01-06,"Iron Mountain/Kingsfd, MI",4,empty
+1900,2020-01-06,"International Falls, MN",4,empty
+1222,2020-01-04,"Kotzebue, AK",4,empty
+1228,2020-01-04,"Laramie, WY",4,empty
+1890,2020-01-06,"Hibbing, MN",4,empty
+1233,2020-01-04,"Lewisburg, WV",4,empty
+1886,2020-01-06,"Hattiesburg/Laurel, MS",4,empty
+1234,2020-01-04,"Lewiston, ID",4,empty
+1236,2020-01-04,"Liberal, KS",4,empty
+702,2020-01-03,"Albany, GA",4,empty
+1241,2020-01-04,"Longview, TX",4,empty
+1399,2020-01-04,"Wrangell, AK",4,empty
+1401,2020-01-04,"Yakutat, AK",4,empty
+1403,2020-01-05,"Aberdeen, SD",4,empty
+1585,2020-01-05,"Lewiston, ID",4,empty
+1753,2020-01-06,"Aberdeen, SD",4,empty
+1751,2020-01-05,"Yakutat, AK",4,empty
+1550,2020-01-05,"International Falls, MN",4,empty
+1749,2020-01-05,"Wrangell, AK",4,empty
+1551,2020-01-05,"Iron Mountain/Kingsfd, MI",4,empty
+1745,2020-01-05,"Williamsport, PA",4,empty
+1571,2020-01-05,"Kodiak, AK",4,empty
+1573,2020-01-05,"Kotzebue, AK",4,empty
+1739,2020-01-05,"Watertown, SD",4,empty
+1737,2020-01-05,"Waterloo, IA",4,empty
+1579,2020-01-05,"Laramie, WY",4,empty
+1584,2020-01-05,"Lewisburg, WV",4,empty
+1587,2020-01-05,"Liberal, KS",4,empty
+1532,2020-01-05,"Hancock/Houghton, MI",4,empty
+1605,2020-01-05,"Meridian, MS",4,empty
+1621,2020-01-05,"Muskegon, MI",4,empty
+1625,2020-01-05,"New Haven, CT",4,empty
+1717,2020-01-05,"Stillwater, OK",4,empty
+1632,2020-01-05,"Nome, AK",4,empty
+1635,2020-01-05,"North Platte, NE",4,empty
+1642,2020-01-05,"Paducah, KY",4,empty
+1649,2020-01-05,"Petersburg, AK",4,empty
+1652,2020-01-05,"Pierre, SD",4,empty
+1701,2020-01-05,"Scottsbluff, NE",4,empty
+1699,2020-01-05,"Sault Ste. Marie, MI",4,empty
+1671,2020-01-05,"Rhinelander, WI",4,empty
+1536,2020-01-05,"Hattiesburg/Laurel, MS",4,empty
+1528,2020-01-05,"Guam, TT",4,empty
+1407,2020-01-05,"Albany, GA",4,empty
+1466,2020-01-05,"Clarksburg/Fairmont, WV",4,empty
+1427,2020-01-05,"Barrow, AK",4,empty
+1803,2020-01-06,"Cedar City, UT",4,empty
+1429,2020-01-05,"Beaumont/Port Arthur, TX",4,empty
+1801,2020-01-06,"Cape Girardeau, MO",4,empty
+1800,2020-01-06,"Butte, MT",4,empty
+1432,2020-01-05,"Bemidji, MN",4,empty
+1434,2020-01-05,"Bethel, AK",4,empty
+1436,2020-01-05,"Binghamton, NY",4,empty
+1793,2020-01-06,"Brainerd, MN",4,empty
+1446,2020-01-05,"Brunswick, GA",4,empty
+1450,2020-01-05,"Butte, MT",4,empty
+1451,2020-01-05,"Cape Girardeau, MO",4,empty
+1786,2020-01-06,"Binghamton, NY",4,empty
+1517,2020-01-05,"Garden City, KS",4,empty
+1468,2020-01-05,"Cody, WY",4,empty
+1473,2020-01-05,"Columbus, GA",4,empty
+1782,2020-01-06,"Bemidji, MN",4,empty
+1779,2020-01-06,"Beaumont/Port Arthur, TX",4,empty
+1477,2020-01-05,"Cordova, AK",4,empty
+1777,2020-01-06,"Barrow, AK",4,empty
+1483,2020-01-05,"Deadhorse, AK",4,empty
+1484,2020-01-05,"Del Rio, TX",4,empty
+1488,2020-01-05,"Devils Lake, ND",4,empty
+1489,2020-01-05,"Dickinson, ND",4,empty
+1495,2020-01-05,"Eau Claire, WI",4,empty
+1497,2020-01-05,"Elko, NV",4,empty
+1122,2020-01-04,"Columbus, GA",4,empty
+0,2020-01-01,"Aberdeen, SD",4,empty
+964,2020-01-03,"Quincy, IL",4,empty
+784,2020-01-03,"Dickinson, ND",4,empty
+949,2020-01-03,"Pierre, SD",4,empty
+2020,2020-01-06,"Quincy, IL",4,empty
+956,2020-01-03,"Portsmouth, NH",4,empty
+957,2020-01-03,"Prescott, AZ",4,empty
+958,2020-01-03,"Presque Isle/Houlton, ME",4,empty
+790,2020-01-03,"Eau Claire, WI",4,empty
+2087,2020-01-06,"Vernal, UT",4,empty
+2014,2020-01-06,"Presque Isle/Houlton, ME",4,empty
+2013,2020-01-06,"Prescott, AZ",4,empty
+2012,2020-01-06,"Portsmouth, NH",4,empty
+783,2020-01-03,"Devils Lake, ND",4,empty
+946,2020-01-03,"Petersburg, AK",4,empty
+2091,2020-01-06,"Waterloo, IA",4,empty
+2093,2020-01-06,"Watertown, SD",4,empty
+779,2020-01-03,"Del Rio, TX",4,empty
+2005,2020-01-06,"Pierre, SD",4,empty
+772,2020-01-03,"Cordova, AK",4,empty
+2099,2020-01-06,"Williamsport, PA",4,empty
+969,2020-01-03,"Rhinelander, WI",4,empty
+974,2020-01-03,"Rock Springs, WY",4,empty
+2002,2020-01-06,"Petersburg, AK",4,empty
+975,2020-01-03,"Rockford, IL",4,empty
+792,2020-01-03,"Elko, NV",4,empty
+2025,2020-01-06,"Rhinelander, WI",4,empty
+763,2020-01-03,"Cody, WY",4,empty
+846,2020-01-03,"Iron Mountain/Kingsfd, MI",4,empty
+882,2020-01-03,"Liberal, KS",4,empty
+900,2020-01-03,"Meridian, MS",4,empty
+874,2020-01-03,"Laramie, WY",4,empty
+916,2020-01-03,"Muskegon, MI",4,empty
+2053,2020-01-06,"Sault Ste. Marie, MI",4,empty
+920,2020-01-03,"New Haven, CT",4,empty
+2055,2020-01-06,"Scottsbluff, NE",4,empty
+868,2020-01-03,"Kotzebue, AK",4,empty
+927,2020-01-03,"Nome, AK",4,empty
+866,2020-01-03,"Kodiak, AK",4,empty
+930,2020-01-03,"North Platte, NE",4,empty
+795,2020-01-03,"Escanaba, MI",4,empty
+845,2020-01-03,"International Falls, MN",4,empty
+835,2020-01-03,"Hibbing, MN",4,empty
+2031,2020-01-06,"Rockford, IL",4,empty
+2030,2020-01-06,"Rock Springs, WY",4,empty
+933,2020-01-03,"Ogdensburg, NY",4,empty
+2071,2020-01-06,"Stillwater, OK",4,empty
+827,2020-01-03,"Hancock/Houghton, MI",4,empty
+939,2020-01-03,"Paducah, KY",4,empty
+823,2020-01-03,"Guam, TT",4,empty
+812,2020-01-03,"Garden City, KS",4,empty
+768,2020-01-03,"Columbus, GA",4,empty
+879,2020-01-03,"Lewisburg, WV",4,empty
+707,2020-01-03,"Alpena, MI",4,empty
+724,2020-01-03,"Beaumont/Port Arthur, TX",4,empty
+1031,2020-01-03,"Vernal, UT",4,empty
+746,2020-01-03,"Cape Girardeau, MO",4,empty
+1975,2020-01-06,"New Haven, CT",4,empty
+1047,2020-01-03,"Wrangell, AK",4,empty
+1076,2020-01-04,"Barrow, AK",4,empty
+1035,2020-01-03,"Waterloo, IA",4,empty
+727,2020-01-03,"Bemidji, MN",4,empty
+1971,2020-01-06,"Muskegon, MI",4,empty
+745,2020-01-03,"Butte, MT",4,empty
+738,2020-01-03,"Brainerd, MN",4,empty
+1037,2020-01-03,"Watertown, SD",4,empty
+1056,2020-01-04,"Albany, GA",4,empty
+722,2020-01-03,"Barrow, AK",4,empty
+729,2020-01-03,"Bethel, AK",4,empty
+1051,2020-01-04,"Aberdeen, SD",4,empty
+1049,2020-01-03,"Yakutat, AK",4,empty
+1982,2020-01-06,"Nome, AK",4,empty
+748,2020-01-03,"Cedar City, UT",4,empty
+1085,2020-01-04,"Binghamton, NY",4,empty
+2122,2020-01-07,"Ashland, WV",4,empty
+1994,2020-01-06,"Paducah, KY",4,empty
+1095,2020-01-04,"Brunswick, GA",4,empty
+2103,2020-01-06,"Wrangell, AK",4,empty
+2105,2020-01-06,"Yakutat, AK",4,empty
+997,2020-01-03,"Sault Ste. Marie, MI",4,empty
+999,2020-01-03,"Scottsbluff, NE",4,empty
+1083,2020-01-04,"Bethel, AK",4,empty
+1988,2020-01-06,"Ogdensburg, NY",4,empty
+2107,2020-01-07,"Aberdeen, SD",4,empty
+1081,2020-01-04,"Bemidji, MN",4,empty
+1985,2020-01-06,"North Platte, NE",4,empty
+1955,2020-01-06,"Meridian, MS",4,empty
+1078,2020-01-04,"Beaumont/Port Arthur, TX",4,empty
+1015,2020-01-03,"Stillwater, OK",4,empty
+1043,2020-01-03,"Williamsport, PA",4,empty
+221,2020-01-01,"New Haven, CT",3,empty
+1762,2020-01-06,"Alpena, MI",3,empty
+1061,2020-01-04,"Alpena, MI",3,empty
+1412,2020-01-05,"Alpena, MI",3,empty
+132,2020-01-01,"Hattiesburg/Laurel, MS",3,empty
+1646,2020-01-05,"Pellston, MI",3,empty
+341,2020-01-01,"Williamsport, PA",3,empty
+532,2020-01-02,"Liberal, KS",3,empty
+259,2020-01-01,"Pueblo, CO",3,empty
+2116,2020-01-07,"Alpena, MI",3,empty
+1295,2020-01-04,"Pellston, MI",3,empty
+1500,2020-01-05,"Escanaba, MI",2,empty
+1666,2020-01-05,"Quincy, IL",2,empty
+1613,2020-01-05,"Moab, UT",2,empty
+2050,2020-01-06,"Santa Maria, CA",2,empty
+64,2020-01-01,"Clarksburg/Fairmont, WV",2,empty
+146,2020-01-01,"International Falls, MN",2,empty
+757,2020-01-03,"Cheyenne, WY",2,empty
+134,2020-01-01,"Hays, KS",2,empty
+1696,2020-01-05,"Santa Maria, CA",2,empty
+1462,2020-01-05,"Cheyenne, WY",2,empty
+1453,2020-01-05,"Cedar City, UT",2,empty
+2,2020-01-01,"Adak Island, AK",2,empty
+60,2020-01-01,"Cheyenne, WY",2,empty
+32,2020-01-01,"Bethel, AK",2,empty
+128,2020-01-01,"Hancock/Houghton, MI",2,empty
+71,2020-01-01,"Columbus, GA",2,empty
+2398,2020-01-07,"Scottsbluff, NE",2,empty
+2165,2020-01-07,"Cheyenne, WY",2,empty
+1540,2020-01-05,"Hibbing, MN",2,empty
+2154,2020-01-07,"Cape Girardeau, MO",2,empty
+1634,2020-01-05,"North Bend/Coos Bay, OR",2,empty
+85,2020-01-01,"Devils Lake, ND",2,empty
+1681,2020-01-05,"Saipan, TT",2,empty
+1531,2020-01-05,"Hagerstown, MD",2,empty
+1660,2020-01-05,"Presque Isle/Houlton, ME",2,empty
+115,2020-01-01,"Gillette, WY",2,empty
+1733,2020-01-05,"Vernal, UT",2,empty
+826,2020-01-03,"Hagerstown, MD",2,empty
+92,2020-01-01,"Eau Claire, WI",2,empty
+49,2020-01-01,"Cape Girardeau, MO",2,empty
+1100,2020-01-04,"Cape Girardeau, MO",2,empty
+167,2020-01-01,"Kodiak, AK",2,empty
+329,2020-01-01,"Vernal, UT",2,empty
+1984,2020-01-06,"North Bend/Coos Bay, OR",2,empty
+1987,2020-01-06,"Ogden, UT",2,empty
+1881,2020-01-06,"Hagerstown, MD",2,empty
+1262,2020-01-04,"Moab, UT",2,empty
+1993,2020-01-06,"Owensboro, KY",2,empty
+1283,2020-01-04,"North Bend/Coos Bay, OR",2,empty
+1995,2020-01-06,"Pago Pago, TT",2,empty
+2284,2020-01-07,"Latrobe, PA",2,empty
+994,2020-01-03,"Santa Maria, CA",2,empty
+979,2020-01-03,"Saipan, TT",2,empty
+1310,2020-01-04,"Presque Isle/Houlton, ME",2,empty
+1312,2020-01-04,"Provo, UT",2,empty
+1316,2020-01-04,"Quincy, IL",2,empty
+297,2020-01-01,"Scottsbluff, NE",2,empty
+2286,2020-01-07,"Lewisburg, WV",2,empty
+2281,2020-01-07,"Laramie, WY",2,empty
+1443,2020-01-05,"Brainerd, MN",2,empty
+1146,2020-01-04,"Elko, NV",2,empty
+1111,2020-01-04,"Cheyenne, WY",2,empty
+1099,2020-01-04,"Butte, MT",2,empty
+1092,2020-01-04,"Brainerd, MN",2,empty
+1934,2020-01-06,"Lewisburg, WV",2,empty
+407,2020-01-02,"Cheyenne, WY",2,empty
+1053,2020-01-04,"Adak Island, AK",2,empty
+1149,2020-01-04,"Escanaba, MI",2,empty
+1220,2020-01-04,"Kodiak, AK",2,empty
+1963,2020-01-06,"Moab, UT",2,empty
+1180,2020-01-04,"Hagerstown, MD",2,empty
+1189,2020-01-04,"Hibbing, MN",2,empty
+1199,2020-01-04,"International Falls, MN",2,empty
+1200,2020-01-04,"Iron Mountain/Kingsfd, MI",2,empty
+476,2020-01-02,"Hagerstown, MD",2,empty
+292,2020-01-01,"Santa Maria, CA",2,empty
+2315,2020-01-07,"Moab, UT",2,empty
+277,2020-01-01,"Saipan, TT",2,empty
+2191,2020-01-07,"Devils Lake, ND",2,empty
+908,2020-01-03,"Moab, UT",2,empty
+175,2020-01-01,"Laramie, WY",2,empty
+2179,2020-01-07,"Concord, NC",2,empty
+180,2020-01-01,"Lewisburg, WV",2,empty
+588,2020-01-02,"Pago Pago, TT",2,empty
+2362,2020-01-07,"Provo, UT",2,empty
+2360,2020-01-07,"Presque Isle/Houlton, ME",2,empty
+2035,2020-01-06,"Saipan, TT",2,empty
+929,2020-01-03,"North Bend/Coos Bay, OR",2,empty
+579,2020-01-02,"North Bend/Coos Bay, OR",2,empty
+932,2020-01-03,"Ogden, UT",2,empty
+1812,2020-01-06,"Cheyenne, WY",2,empty
+938,2020-01-03,"Owensboro, KY",2,empty
+1102,2020-01-04,"Cedar City, UT",2,empty
+217,2020-01-01,"Muskegon, MI",2,empty
+227,2020-01-01,"Niagara Falls, NY",2,empty
+2335,2020-01-07,"North Platte, NE",2,empty
+272,2020-01-01,"Rock Springs, WY",2,empty
+262,2020-01-01,"Quincy, IL",2,empty
+1348,2020-01-04,"Sault Ste. Marie, MI",2,empty
+258,2020-01-01,"Provo, UT",2,empty
+2327,2020-01-07,"New Haven, CT",2,empty
+248,2020-01-01,"Pierre, SD",2,empty
+558,2020-01-02,"Moab, UT",2,empty
+2337,2020-01-07,"Ogdensburg, NY",2,empty
+238,2020-01-01,"Paducah, KY",2,empty
+233,2020-01-01,"Ogdensburg, NY",2,empty
+231,2020-01-01,"North Platte, NE",2,empty
+230,2020-01-01,"North Bend/Coos Bay, OR",2,empty
+1383,2020-01-04,"Vernal, UT",2,empty
+209,2020-01-01,"Moab, UT",2,empty
+278,2020-01-01,"Salina, KS",1,empty
+183,2020-01-01,"Liberal, KS",1,empty
+2365,2020-01-07,"Quincy, IL",1,empty
