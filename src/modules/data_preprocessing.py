@@ -2,6 +2,7 @@
 # This module includes all functions that will be used in the feature selection and feature engineering process
 # As well as any functions needed for EDA
 
+#-------Time of Day--------------------
 def time_of_day(df, method='dep'):  
     """
     Creates time of day column based on dataframe values for actual departure time and actual arrival time using mapping.  
@@ -32,8 +33,9 @@ def time_of_day(df, method='dep'):
             return 'Afternoon'        
         elif (df['arr_time'] >= 1700 and df['arr_time'] < 2100) :
             return 'Evening'
+#-------------------------------------
+#-------Feature Categorizer-----------
 
-        
 def feature_categorizer(dfslice, df):
     """
     This function will call other functions within data_preprocessing.py and write their outputs to a new csv file with the 
@@ -51,3 +53,32 @@ def feature_categorizer(dfslice, df):
             map_dict[value] = key
         
         df[column] = df[column].map(map_dict)
+#-------------------------------------
+#-------Make Regions------------------
+def make_regions(df):
+    """
+    Function to take state codes of a dataframe and assign them
+    to a new feature using inverse dictionary mapping
+    
+    df = dataframe
+    
+    *NOTE: state code feature MUST be named state_id*
+    """
+    #----Dictionary Map (DO NOT ALTER)-----
+    state_codes = {'Pacific' : ['AK', 'CA', 'HI', 'OR', 'WA'],
+               'North-West': ['MT', 'ID', 'WY'],
+               'South-West': ['AZ', 'NM', 'CO', 'NV', 'UT'],
+               'East-North Central' : ['IL', 'IN', 'MI', 'OH', 'WI'],
+               'West-North Central' : ['IA', 'KS', 'MN', 'MO', 'NE', 'ND', 'SD'],
+               'New England' : ['MA', 'ME', 'NH', 'VT', 'RI', 'CT'],
+               'Mid-Atlantic' : ['DE', 'MD', 'NJ', 'PA', 'NY', 'VA', 'WV'],
+               'South-Atlantic' : ['FL', 'GA', 'NC', 'SC'],
+               'East-South Central' : ['AL', 'KY', 'MS', 'TN'],
+               'West-South Central' : ['AR', 'LA', 'OK', 'TX']
+}
+    
+    for index in states['state_id'].index:
+        for region, state in state_codes.items():
+            if states['state_id'][index] in state:
+                states['region'][index] = str(region)
+#-------------------------------------

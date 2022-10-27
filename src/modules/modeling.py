@@ -9,7 +9,7 @@ from scipy.stats import uniform as sp_randFloat
 from scipy.stats import randint as sp_randInt
 
 
-def random_search(X, y, model, parameters):
+def random_search(X, y, model=RandomForestRegressor, parameters=):
     
     """
     Randomly apply parameters to models and return the parameters that returned the best results:
@@ -38,3 +38,30 @@ def random_search(X, y, model, parameters):
     print("\n The best score across ALL searched params:\n", randm_src.best_score_)
     print("\n The best parameters across ALL searched params:\n", randm_src.best_params_)
 
+#-------------------------------------
+#---------Regression--------------
+def regression(X, y, regressor_list=[LinearRegression, SVR, RandomForestRegressor]):
+    """
+    produce regression and result for a list of regressors
+    X = data
+    y = target series
+    regressor_list = list by regressor module    
+    """
+    #split
+    X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.20, random_state=42)
+    
+    #scale
+    scalar = StandardScaler()
+    X_scaled = scalar.fit_transform(X_train)       #fit has a memory, don't use on test
+    X_scaled_test = scalar.transform(X_test)           #scalar is an instance that has the memory
+    
+    #model
+    for reg in regressor_list:
+        model = reg()                                        # instantiate the regressor
+        model.fit(X_scaled, y_train)                            # fit the model
+        y_pred = model.predict(X_scaled_test)                   # Predict the Test set results
+        MSE = mean_squared_error(y_test, y_pred)
+        R2 = r2_score(y_test, y_pred)
+        print(f'Regressor: {reg} \n MSE = {MSE} \n R2 = {R2} \n ----------------------------')
+
+#-------------------------------------
