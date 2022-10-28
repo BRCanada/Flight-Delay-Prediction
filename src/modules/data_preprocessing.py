@@ -89,11 +89,15 @@ def make_regions(df, feature):
                'East-South Central' : ['AL', 'KY', 'MS', 'TN'],
                'West-South Central' : ['AR', 'LA', 'OK', 'TX']
 }
+    if f'{feature[0:4]}_region' in df.columns:
+        pass
+    else:
+        df[f'{feature[0:4]}_region'] = 'empty'
     
-    for index in states[feature].index:
+    for index in df[feature].index:
         for region, state in state_codes.items():
-            if states[feature][index] in state:
-                states['region'][index] = str(region)
+            if df[feature][index] in state:
+                df[f'{feature[0:4]}_region'][index] = str(region)
 #-------------------------------------
 #-------Call Weather API------------------
 def open_weather_api(lat, long, date, timezone = "America%2FChicago"):
