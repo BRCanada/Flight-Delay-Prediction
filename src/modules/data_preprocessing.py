@@ -67,12 +67,13 @@ def feature_categorizer(dfslice, df):
         df[column] = df[column].map(map_dict)
 #-------------------------------------
 #-------Make Regions------------------
-def make_regions(df):
+def make_regions(df, feature):
     """
     Function to take state codes of a dataframe and assign them
     to a new feature using inverse dictionary mapping
     
     df = dataframe
+    feature = feature label (string)
     
     *NOTE: state code feature MUST be named state_id*
     """
@@ -89,9 +90,9 @@ def make_regions(df):
                'West-South Central' : ['AR', 'LA', 'OK', 'TX']
 }
     
-    for index in states['state_id'].index:
+    for index in states[feature].index:
         for region, state in state_codes.items():
-            if states['state_id'][index] in state:
+            if states[feature][index] in state:
                 states['region'][index] = str(region)
 #-------------------------------------
 #-------Call Weather API------------------
