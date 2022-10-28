@@ -84,10 +84,11 @@ def make_regions(df, feature):
                'East-North Central' : ['IL', 'IN', 'MI', 'OH', 'WI'],
                'West-North Central' : ['IA', 'KS', 'MN', 'MO', 'NE', 'ND', 'SD'],
                'New England' : ['MA', 'ME', 'NH', 'VT', 'RI', 'CT'],
-               'Mid-Atlantic' : ['DE', 'MD', 'NJ', 'PA', 'NY', 'VA', 'WV'],
+               'Mid-Atlantic' : ['DE', 'MD', 'NJ', 'PA', 'NY', 'VA', 'WV', 'DC'],
                'South-Atlantic' : ['FL', 'GA', 'NC', 'SC'],
                'East-South Central' : ['AL', 'KY', 'MS', 'TN'],
-               'West-South Central' : ['AR', 'LA', 'OK', 'TX']
+               'West-South Central' : ['AR', 'LA', 'OK', 'TX'],
+               'Offshore Territory' : ['TT', 'VI', 'PR']
 }
     if f'{feature[0:4]}_region' in df.columns:
         pass
