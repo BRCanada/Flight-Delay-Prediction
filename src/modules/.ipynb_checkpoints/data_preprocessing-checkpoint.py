@@ -10,7 +10,7 @@ from sklearn.svm import SVR
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import mean_squared_error
 from sklearn.metrics import r2_score
-
+import scipy.stats as st
 import requests
 import time
 
@@ -67,12 +67,13 @@ def feature_categorizer(dfslice, df):
         df[column] = df[column].map(map_dict)
 #-------------------------------------
 #-------Make Regions------------------
-def make_regions(df):
+def make_regions(df, feature):
     """
     Function to take state codes of a dataframe and assign them
     to a new feature using inverse dictionary mapping
     
     df = dataframe
+    feature = feature label (string)
     
     *NOTE: state code feature MUST be named state_id*
     """
@@ -83,16 +84,21 @@ def make_regions(df):
                'East-North Central' : ['IL', 'IN', 'MI', 'OH', 'WI'],
                'West-North Central' : ['IA', 'KS', 'MN', 'MO', 'NE', 'ND', 'SD'],
                'New England' : ['MA', 'ME', 'NH', 'VT', 'RI', 'CT'],
-               'Mid-Atlantic' : ['DE', 'MD', 'NJ', 'PA', 'NY', 'VA', 'WV'],
+               'Mid-Atlantic' : ['DE', 'MD', 'NJ', 'PA', 'NY', 'VA', 'WV', 'DC'],
                'South-Atlantic' : ['FL', 'GA', 'NC', 'SC'],
                'East-South Central' : ['AL', 'KY', 'MS', 'TN'],
-               'West-South Central' : ['AR', 'LA', 'OK', 'TX']
+               'West-South Central' : ['AR', 'LA', 'OK', 'TX'],
+               'Offshore Territory' : ['TT', 'VI', 'PR']
 }
+    if f'{feature[0:4]}_region' in df.columns:
+        pass
+    else:
+        df[f'{feature[0:4]}_region'] = 'empty'
     
-    for index in states['state_id'].index:
+    for index in df[feature].index:
         for region, state in state_codes.items():
-            if states['state_id'][index] in state:
-                states['region'][index] = str(region)
+            if df[feature][index] in state:
+                df[f'{feature[0:4]}_region'][index] = str(region)
 #-------------------------------------
 #-------Call Weather API------------------
 def open_weather_api(lat, long, date, timezone = "America%2FChicago"):
@@ -203,3 +209,24 @@ def regression(X_train, X_test, y_train, y_test, regressor_list):
         MSE = mean_squared_error(y_test, y_pred)
         R2 = r2_score(y_test, y_pred)
         print(f'Regressor: {str(reg)} \n MSE = {MSE} \n R2 = {R2} \n ----------------------------')
+        
+#------------------------------------
+#------OneWay Results-------------
+
+# Function to interperet the results for us
+def oneway_results(list_distributions, nullhyp, alpha):
+    """
+    returns the result of the test
+    Params:
+    list_distributions - list of distributions for comparison
+    nullhyp - string of your hypothesis
+    alpha - floating point number for significance
+    """
+    test = st.f_oneway(*list_distributions)
+    print(f'Null hypothesis tested: {nullhyp}')
+    if test[1] < alpha:
+        print(f'P-val = {test[1]}\n Result: Reject the null hypothesis; samples are significantly different.\n')
+    else:
+        print(f'P-val = {test[1]}\n Result: Fail to reject the null hypothesis.\n')
+        
+#------------------------------------

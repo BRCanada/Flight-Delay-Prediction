@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 
 #--------2-feature Scatter--
-def scatter_plot(df, xinput, yinput, hinput,):
+def scatter_plot(df, xinput, yinput, hinput):
     """
     Function returns a scatter_plot from a dataframe, based on chosen x and y inputs.
     
@@ -21,8 +21,9 @@ def scatter_plot(df, xinput, yinput, hinput,):
     y = df[yinput]
     hue = df[hinput]
     
-    sns.scatterplot(data=df, x=xinput, y=yinput, hue=hinput)
-    plt.savefig(f'/output/figures/{xinput}_{yinput}_scatter.png')
+    sns.scatterplot(data=df, x=xinput, y=yinput, hue=hue)
+    plt.title(f"{xinput} by {yinput}: {hinput}")
+    plt.savefig(f'../output/figures/{xinput}_{yinput}_scatter.png')
 #---------------------------    
 
 #---------Multi-Histogram---
@@ -40,7 +41,7 @@ def multi_hist(df, featurelist):
         namestr += featurelist[i][0:3]+'_'
         axes[i].set_title(f'{featurelist[i]}')
         sns.histplot(ax=axes[i], x=df[featurelist[i]].values)
-        plt.savefig(f'output/figures/{namestr}multi.png')
+    plt.savefig(f'../output/figures/{namestr}multi.png')
         
 #---------------------------
 #------Pie Chart------------
@@ -58,12 +59,12 @@ def make_pie(df, data, label):
     plt.title(f"{data} by {label}")
     plt.pie(df[data], labels=df[label].unique(), colors = colors, autopct='%.0f%%')
     
-    plt.savefig(f'output/figures/{data}by{label}_pie.png')
+    plt.savefig(f'../output/figures/{data}by{label}_pie.png')
 
 #----------------------------
 #-----Bar Plot---------------
 
-def make_bar(df, xlabel, ylabel):
+def make_bar(df, xlabel, ylabel, hue):
     """
     This will turn any two labels into a barplot
     
@@ -72,9 +73,9 @@ def make_bar(df, xlabel, ylabel):
     ylabel = y-axis feature (string)
     """
     
-    sns.barplot(data=df, x=xlabel, y=ylabel).set(title=f'{xlabel} by {ylabel}')
+    sns.barplot(data=df, x=xlabel, y=ylabel, hue=hue).set(title=f'{xlabel} by {ylabel}')
     
-    plt.savefig(f'output/figures/{xlabel}_{ylabel}_bar.png')
+    plt.savefig(f'../output/figures/{xlabel}_{ylabel}_bar.png')
 
 #------------------------------------
 #---------Donut----------------------
@@ -108,6 +109,6 @@ def make_donut(df, labels, slices):
     plt.tight_layout()
     plt.title(f"{slices} by {labels}")
     plt.show()
-    plt.savefig(f'output/figures/{slices}_{labels}_donut.png')
+    plt.savefig(f'../output/figures/{slices}_{labels}_donut.png')
     
-#---------------------------------------------
+# ---------------------------------------------
